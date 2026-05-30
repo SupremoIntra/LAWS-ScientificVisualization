@@ -77,6 +77,10 @@ df['month'] = df['date'].dt.month
 df['civilians_forced'] = df['civilian_deaths'] > df['total_deaths']
 df.loc[df['civilians_forced'], 'civilian_deaths'] = df.loc[df['civilians_forced'], 'total_deaths']
 
+# Salvataggio del dataset pulito per i moduli successivi (Riproducibilità)
+df.to_csv('cleaned_drone_data.csv', index=False)
+print("Dataset pulito salvato in 'cleaned_drone_data.csv'.")
+
 # ==========================================
 # REPORT TESTUALE
 # ==========================================

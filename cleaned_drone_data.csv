@@ -1,0 +1,675 @@
+strike_id,country,date_str,president,location,coords_raw,latitude,longitude,total_deaths_min,total_deaths_max,civilian_deaths_min,civilian_deaths_max,children_deaths,injured_min,injured_max,total_deaths,civilian_deaths,civilians_uncertain,date,year,month,civilians_forced
+AFG001,Afghanistan,01-01-2015,Obama,"Spera, Khost, Afghanistan","33.19392, 69.515022",33.19392,69.515022,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-01-01,2015,1,False
+AFG002,Afghanistan,01-03-2015,Obama,"Gayan, Paktika, Afghanistan","32.984041,69.430782",32.984041,69.430782,18.0,18.0,0.0,0.0,0,0,0,18.0,0.0,False,2015-03-01,2015,3,False
+AFG003,Afghanistan,01-03-2015,Obama,"Spera, Khost, Afghanistan","32.8078448,68.6456967",32.8078448,68.6456967,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2015-03-01,2015,3,False
+AFG004,Afghanistan,01-06-2015,Obama,"Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.15562,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-06-01,2015,6,False
+AFG005,Afghanistan,01-07-2015,Obama,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-07-01,2015,7,False
+AFG006,Afghanistan,01-08-2015,Obama,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,6.0,6.0,0.0,0.0,0,0,3,6.0,0.0,False,2015-08-01,2015,8,False
+AFG007,Afghanistan,01-11-2015,Obama,"Chikanawr, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,8.0,8.0,0.0,0.0,0,0,3,8.0,0.0,False,2015-11-01,2015,11,False
+AFG011,Afghanistan,02-08-2015,Obama,"Azankarez, Kajak, Helmand, Afghanistan","32.339473,65.143251",32.339473,65.143251,6.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2015-08-02,2015,8,False
+AFG012,Afghanistan,02-10-2015,Obama,"Khas Kunar, Kunar, Afghanistan","34.643368,71.026004",34.643368,71.026004,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2015-10-02,2015,10,False
+AFG013,Afghanistan,02-11-2015,Obama,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,2.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2015-11-02,2015,11,False
+AFG015,Afghanistan,02-03-2015,Obama,"Alishir, Khost, Afghanistan","33.394839,70.044359",33.394839,70.044359,1.0,1.0,0.0,1.0,0,0,0,1.0,1.0,False,2015-03-02,2015,3,False
+AFG016,Afghanistan,03-10-2015,Obama,"Mamond, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2015-10-03,2015,10,False
+AFG017,Afghanistan,03-11-2015,Obama,"Sarakani, Kunar, Afghanistan","34.801712,71.216142",34.801712,71.216142,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-11-03,2015,11,False
+AFG024,Afghanistan,04-12-2015,Obama,"Dara I Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.15562,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-12-04,2015,12,False
+AFG026,Afghanistan,05-03-2015,Obama,"Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2015-03-05,2015,3,False
+AFG027,Afghanistan,05-04-2015,Obama,"Dabili, Landi Basawal area, Mohmand Dara, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,17.0,17.0,0.0,0.0,0,0,0,17.0,0.0,False,2015-04-05,2015,4,False
+AFG028,Afghanistan,05-07-2015,Obama,"Khas Khar, Kunar, Afghanistan","34.643368,71.026004",34.643368,71.026004,6.0,7.0,0.0,1.0,0,1,0,7.0,1.0,False,2015-07-05,2015,7,False
+AFG029,Afghanistan,05-07-2015,Obama,"Goshti, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2015-07-05,2015,7,False
+AFG030,Afghanistan,05-09-2015,Obama,"Machi Megi, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,13.0,13.0,0.0,0.0,0,0,0,13.0,0.0,False,2015-09-05,2015,9,False
+AFG037,Afghanistan,06-03-2015,Obama,"Shogam area, Shigal, Kunar, Afghanistan","35.118055,71.228333",35.118055,71.228333,3.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2015-03-06,2015,3,False
+AFG038,Afghanistan,06-04-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2015-04-06,2015,4,False
+AFG039,Afghanistan,06-04-2015,Obama,"Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,6.0,6.0,0.0,1.0,0,0,0,6.0,1.0,False,2015-04-06,2015,4,False
+AFG040,Afghanistan,06-04-2015,Obama,"Chapahar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,11.0,11.0,0.0,0.0,0,0,0,11.0,0.0,False,2015-04-06,2015,4,False
+AFG041,Afghanistan,06-05-2015,Obama,"Ali Shir, Tere Zayi, Khost, Afghanistan","33.388710,70.169394",33.38871,70.169394,14.0,14.0,14.0,14.0,0,0,0,14.0,14.0,False,2015-05-06,2015,5,False
+AFG042,Afghanistan,06-07-2015,Obama,"Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2015-07-06,2015,7,False
+AFG043,Afghanistan,06-08-2015,Obama,"Samso, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,7.0,7.0,0.0,5.0,0,5,0,7.0,5.0,False,2015-08-06,2015,8,False
+AFG044,Afghanistan,06-08-2015,Obama,"Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-08-06,2015,8,False
+AFG045,Afghanistan,06-11-2015,Obama,"Maroufkhil, Khushamand, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,30.0,30.0,0.0,0.0,0,0,0,30.0,0.0,False,2015-11-06,2015,11,False
+AFG046,Afghanistan,06-11-2015,Obama,"Jarkani, Yousufkhil, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2015-11-06,2015,11,False
+AFG058,Afghanistan,07-04-2015,Obama,"Ghanikhel, Nangarhar, Afghanistan","34.516667,70.149999",34.516667,70.149999,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2015-04-07,2015,4,False
+AFG059,Afghanistan,07-04-2015,Obama,"Chappa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2015-04-07,2015,4,False
+AFG060,Afghanistan,07-04-2015,Obama,"Dara I Pech, Nangarhar, Afghanistan","34.872898,71.155620",34.872898,71.15562,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-04-07,2015,4,False
+AFG061,Afghanistan,07-05-2015,Obama,"Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-05-07,2015,5,False
+AFG062,Afghanistan,07-06-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2015-06-07,2015,6,False
+AFG063,Afghanistan,07-06-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,13.0,37.0,0.0,0.0,0,0,0,37.0,0.0,False,2015-06-07,2015,6,False
+AFG064,Afghanistan,07-07-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,11.0,49.0,0.0,0.0,0,0,0,49.0,0.0,False,2015-07-07,2015,7,False
+AFG065,Afghanistan,07-07-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,18.0,18.0,0.0,0.0,0,0,0,18.0,0.0,False,2015-07-07,2015,7,False
+AFG066,Afghanistan,07-07-2015,Obama,"Haska Meena, Nangarhar, Afghanistan","34.092630,70.469224",34.09263,70.469224,25.0,25.0,0.0,0.0,0,0,0,25.0,0.0,False,2015-07-07,2015,7,False
+AFG067,Afghanistan,07-07-2015,Obama,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,4.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2015-07-07,2015,7,False
+AFG068,Afghanistan,07-08-2015,Obama,"Tangi, Dih Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.09263,70.469224,25.0,52.0,0.0,0.0,0,0,0,52.0,0.0,False,2015-08-07,2015,8,False
+AFG069,Afghanistan,07-10-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,30.0,31.0,0.0,0.0,0,0,0,31.0,0.0,False,2015-10-07,2015,10,False
+AFG070,Afghanistan,07-11-2015,Obama,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-11-07,2015,11,False
+AFG071,Afghanistan,07-12-2015,Obama,"Maidnak and Chehal Gazi, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2015-12-07,2015,12,False
+AFG078,Afghanistan,08-02-2015,Obama,"Cholzi, Baraki Barak, Logar, Afghanistan","33.969092,68.950978",33.969092,68.950978,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2015-02-08,2015,2,False
+AFG079,Afghanistan,08-04-2015,Obama,"Sherzad, Haska Mina and Deh Bala, Nangarhar and Paktika, Afghanistan","34.092630,70.469224",34.09263,70.469224,56.0,66.0,0.0,0.0,0,0,0,66.0,0.0,False,2015-04-08,2015,4,False
+AFG080,Afghanistan,08-08-2015,Obama,"Gorgori, Haska Mina, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,10.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2015-08-08,2015,8,False
+AFG081,Afghanistan,08-09-2015,Obama,"Nazyan, Nangarhar, Afghanistan","34.118171,70.752529",34.118171,70.752529,2.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2015-09-08,2015,9,False
+AFG082,Afghanistan,08-10-2015,Obama,"Shonkorok Valley, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-10-08,2015,10,False
+AFG090,Afghanistan,09-01-2015,Obama,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-01-09,2015,1,False
+AFG091,Afghanistan,09-06-2015,Obama,"Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,11.0,31.0,0.0,0.0,0,0,4,31.0,0.0,False,2015-06-09,2015,6,False
+AFG092,Afghanistan,09-06-2015,Obama,"Maiwand, Kandahar, Afghanistan","31.499713,65.000853",31.499713,65.000853,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-06-09,2015,6,False
+AFG093,Afghanistan,09-08-2015,Obama,"Ghazi Abad, Kunar, Afghanistan","34.6999992,70.7412452",34.6999992,70.7412452,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2015-08-09,2015,8,False
+AFG094,Afghanistan,09-10-2015,Obama,"Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,5.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2015-10-09,2015,10,False
+AFG103,Afghanistan,10-02-2015,Obama,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-02-10,2015,2,False
+AFG104,Afghanistan,10-02-2015,Obama,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-02-10,2015,2,False
+AFG105,Afghanistan,10-03-2015,Obama,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,42.0,42.0,42.0,42.0,3,3,27,42.0,42.0,False,2015-03-10,2015,3,False
+AFG106,Afghanistan,10-05-2015,Obama,"Kunduz city, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2015-05-10,2015,5,False
+AFG107,Afghanistan,10-11-2015,Obama,"Shurabak, Kandahar, Afghanistan","30.45,65.816666",30.45,65.816666,100.0,200.0,0.0,0.0,0,0,50,200.0,0.0,False,2015-11-10,2015,11,False
+AFG119,Afghanistan,11-04-2015,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,0.0,29.0,0.0,0.0,0,0,0,29.0,0.0,False,2015-04-11,2015,4,False
+AFG120,Afghanistan,11-08-2015,Obama,"Gulai, Ghanikhil, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,3.0,3.0,0.0,0.0,0,0,1,3.0,0.0,False,2015-08-11,2015,8,False
+AFG127,Afghanistan,12-03-2015,Obama,"Nakora, Chapa Dara, Kunar, Afghanistan","34.893888,70.774166",34.893888,70.774166,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-03-12,2015,3,False
+AFG128,Afghanistan,12-08-2015,Obama,"Ador, Khogyani, Nangarhar, Afghanistan","34.266667,70.266666",34.266667,70.266666,11.0,11.0,0.0,0.0,0,0,0,11.0,0.0,False,2015-08-12,2015,8,False
+AFG136,Afghanistan,01-02-2016,Obama,"Shaltan Darra, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,5.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2016-02-01,2016,2,False
+AFG137,Afghanistan,01-06-2016,Obama,"Majah, Helmand, Afghanistan","31.517771,64.114227",31.517771,64.114227,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-06-01,2016,6,False
+AFG138,Afghanistan,01-08-2016,Obama,"Maktab village, Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,17.0,20.0,0.0,0.0,0,0,2,20.0,0.0,False,2016-08-01,2016,8,False
+AFG139,Afghanistan,01-08-2016,Obama,"Kharkhez, Kandahar, Afghanistan","31.788010,65.570785",31.78801,65.570785,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-08-01,2016,8,False
+AFG140,Afghanistan,01-08-2016,Obama,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-08-01,2016,8,False
+AFG141,Afghanistan,01-09-2016,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,20.0,20.0,0.0,0.0,0,0,2,20.0,0.0,False,2016-09-01,2016,9,False
+AFG142,Afghanistan,01-09-2016,Obama,"Shegal, Kunar, Afghanistan","35.118055,71.228333",35.118055,71.228333,10.0,10.0,1.0,1.0,1,1,0,10.0,1.0,False,2016-09-01,2016,9,False
+AFG143,Afghanistan,01-10-2016,Obama,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-10-01,2016,10,False
+AFG144,Afghanistan,01-10-2016,Obama,"Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-10-01,2016,10,False
+AFG159,Afghanistan,02-01-2016,Obama,"Momand, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,21.0,29.0,0.0,0.0,0,0,0,29.0,0.0,False,2016-01-02,2016,1,False
+AFG160,Afghanistan,02-01-2016,Obama,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,19.0,19.0,0.0,0.0,0,0,0,19.0,0.0,False,2016-01-02,2016,1,False
+AFG161,Afghanistan,02-02-2016,Obama,"Bandar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,3.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-02-02,2016,2,False
+AFG162,Afghanistan,02-04-2016,Obama,"Daman, Marghay, Bermal, Paktika, Afghanistan","32.746111,69.297777",32.746111,69.297777,10.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2016-04-02,2016,4,False
+AFG163,Afghanistan,02-04-2016,Obama,"Shiltan, Shegal, Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2016-04-02,2016,4,False
+AFG164,Afghanistan,02-05-2016,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,16.0,16.0,0.0,0.0,0,0,0,16.0,0.0,False,2016-05-02,2016,5,False
+AFG165,Afghanistan,02-08-2016,Obama,"Bazaar, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,11.0,11.0,0.0,0.0,0,0,2,11.0,0.0,False,2016-08-02,2016,8,False
+AFG166,Afghanistan,02-08-2016,Obama,"Nad Ali and Greshk, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,15.0,15.0,0.0,0.0,0,0,10,15.0,0.0,False,2016-08-02,2016,8,False
+AFG167,Afghanistan,02-11-2016,Obama,"Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,13.0,18.0,0.0,0.0,0,0,0,18.0,0.0,False,2016-11-02,2016,11,False
+AFG175,Afghanistan,03-05-2016,Obama,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,15.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2016-05-03,2016,5,False
+AFG180,Afghanistan,04-05-2016,Obama,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2016-05-04,2016,5,False
+AFG181,Afghanistan,04-07-2016,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-07-04,2016,7,False
+AFG182,Afghanistan,04-07-2016,Obama,"Dehrawood, Nangarhar, Afghanistan","32.623738,65.456431",32.623738,65.456431,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2016-07-04,2016,7,False
+AFG183,Afghanistan,04-07-2016,Obama,"Nematabad, Gomal, Paktika, Afghanistan","32.434829,69.001648",32.434829,69.001648,14.0,21.0,14.0,21.0,0,0,0,21.0,21.0,False,2016-07-04,2016,7,False
+AFG189,Afghanistan,05-07-2016,Obama,"Khanashin, Helmand, Afghanistan","30.810909,63.769538",30.810909,63.769538,0.0,1.0,0.0,0.0,0,0,2,1.0,0.0,False,2016-07-05,2016,7,False
+AFG190,Afghanistan,05-09-2016,Obama,"Nahr Sufi, Chahar Dara, Kunduz, Afghanistan","36.599741,68.863499",36.599741,68.863499,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2016-09-05,2016,9,False
+AFG191,Afghanistan,05-12-2016,Obama,"Zarmakhel, Pacheragam, Nangarhar, Afghanistan","34.074090,70.288452",34.07409,70.288452,1.0,1.0,0.0,0.0,0,0,1,1.0,0.0,False,2016-12-05,2016,12,False
+AFG205,Afghanistan,06-02-2016,Obama,"Kharkot, Gayan, Paktika, Afghanistan","32.984041,69.430782",32.984041,69.430782,10.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2016-02-06,2016,2,False
+AFG206,Afghanistan,06-08-2016,Obama,"Sar Rawza, Paktika, Afghanistan","33.004167,69.049336",33.004167,69.049336,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2016-08-06,2016,8,False
+AFG207,Afghanistan,06-11-2016,Obama,"Sargardan, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",34.283562,69.883565,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2016-11-06,2016,11,False
+AFG208,Afghanistan,06-11-2016,Obama,"Azara, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,11.0,11.0,0.0,3.0,0,0,0,11.0,3.0,False,2016-11-06,2016,11,False
+AFG209,Afghanistan,06-11-2016,Obama,"Ghwagezai, Hesarak, Nangarhar, Afghanistan","34.283562,69.883565",34.283562,69.883565,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2016-11-06,2016,11,False
+AFG224,Afghanistan,07-03-2016,Obama,"Ab Band, Ghazni, Afghanistan","32.983333,67.966667",32.983333,67.966667,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2016-03-07,2016,3,False
+AFG225,Afghanistan,07-03-2016,Obama,"Mamond and Pekha, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,19.0,19.0,0.0,0.0,0,0,0,19.0,0.0,False,2016-03-07,2016,3,False
+AFG226,Afghanistan,07-03-2016,Obama,"Wazir, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,11.0,11.0,0.0,0.0,0,0,3,11.0,0.0,False,2016-03-07,2016,3,False
+AFG227,Afghanistan,07-05-2016,Obama,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2016-05-07,2016,5,False
+AFG228,Afghanistan,07-08-2016,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,16.0,16.0,0.0,0.0,0,0,0,16.0,0.0,False,2016-08-07,2016,8,False
+AFG229,Afghanistan,07-09-2016,Obama,"Mamond Dara, Achin, Nangarhar, Afghanistan","34.215777,71.026004",34.215777,71.026004,4.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2016-09-07,2016,9,False
+AFG230,Afghanistan,07-09-2016,Obama,"Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-09-07,2016,9,False
+AFG231,Afghanistan,07-11-2016,Obama,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-11-07,2016,11,False
+AFG248,Afghanistan,08-01-2016,Obama,"Zarghoon village, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2016-01-08,2016,1,False
+AFG249,Afghanistan,08-11-2016,Obama,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-11-08,2016,11,False
+AFG250,Afghanistan,08-12-2016,Obama,"Khoshamand, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,20.0,25.0,0.0,5.0,0,4,25,25.0,5.0,False,2016-12-08,2016,12,False
+AFG259,Afghanistan,09-02-2016,Obama,"Spera, Khost, Afghanistan","32.8078448,68.6456967",32.8078448,68.6456967,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2016-02-09,2016,2,False
+AFG260,Afghanistan,09-09-2016,Obama,"Tarin Kot, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-09-09,2016,9,False
+AFG261,Afghanistan,09-10-2016,Obama,"Qarya e Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",32.677851,61.981391,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-10-09,2016,10,False
+AFG271,Afghanistan,10-03-2016,Obama,"Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-03-10,2016,3,False
+AFG272,Afghanistan,10-03-2016,Obama,"Nawa-i-Barakzayi, Helmand, Afghanistan","31.477710,64.289821",31.47771,64.289821,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2016-03-10,2016,3,False
+AFG273,Afghanistan,10-04-2016,Obama,"Abdul Khel, Achin, Nangarhar, Afghanistan","34.053888,70.696111",34.053888,70.696111,13.0,13.0,0.0,0.0,0,0,2,13.0,0.0,False,2016-04-10,2016,4,False
+AFG274,Afghanistan,10-08-2016,Obama,"Achin and Deh Bala, Nangarhar, Afghanistan","34.092630,70.469224",34.09263,70.469224,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-08-10,2016,8,False
+AFG284,Afghanistan,11-03-2016,Obama,"Boz village, Kunduz city, Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,58.0,59.0,32.0,33.0,20,20,53,59.0,33.0,False,2016-03-11,2016,3,False
+AFG285,Afghanistan,11-04-2016,Obama,"Diwal-i-Surkh, Khak e Safid, Farah, Afghanistan","32.677851,61.981391",32.677851,61.981391,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2016-04-11,2016,4,False
+AFG286,Afghanistan,11-09-2016,Obama,"Mamandara area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,11.0,14.0,0.0,0.0,0,0,0,14.0,0.0,False,2016-09-11,2016,9,False
+AFG287,Afghanistan,11-11-2016,Obama,"Mamandara and Moragi areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,13.0,14.0,0.0,0.0,0,0,0,14.0,0.0,False,2016-11-11,2016,11,False
+AFG288,Afghanistan,11-12-2016,Obama,"Lataband area, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,13.0,13.0,0.0,0.0,0,0,0,13.0,0.0,False,2016-12-11,2016,12,False
+AFG293,Afghanistan,12-01-2016,Obama,"Langari, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2016-01-12,2016,1,False
+AFG302,Afghanistan,01-10-2017,Trump,"Aziz Kala, Sabri, Khost, Afghanistan","33.358507,69.859740",33.358507,69.85974,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-10-01,2017,10,False
+AFG309,Afghanistan,02-01-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,2.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2017-01-02,2017,1,False
+AFG310,Afghanistan,02-02-2017,Trump,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,5.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2017-02-02,2017,2,False
+AFG311,Afghanistan,02-03-2017,Trump,"Achin and Haska Mina, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,21.0,21.0,0.0,0.0,0,0,6,21.0,0.0,False,2017-03-02,2017,3,False
+AFG312,Afghanistan,02-06-2017,Trump,"Kharko area, Garamser, Helmand, Afghanistan","31.132511,64.212898",31.132511,64.212898,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2017-06-02,2017,6,False
+AFG313,Afghanistan,02-06-2017,Trump,"Char Wazi area, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,2.0,2.0,0.0,0.0,0,0,3,2.0,0.0,False,2017-06-02,2017,6,False
+AFG314,Afghanistan,02-08-2017,Trump,"Pekhar Khor area and Nari Oba area, Achin and Haska Mena, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,11.0,11.0,0.0,0.0,0,0,6,11.0,0.0,False,2017-08-02,2017,8,False
+AFG315,Afghanistan,02-10-2017,Trump,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,0.0,68.0,0.0,26.0,0,19,0,68.0,26.0,False,2017-10-02,2017,10,False
+AFG316,Afghanistan,02-11-2017,Trump,"Sangin, Helmand, Afghanistan","32.071099,64.852586",32.071099,64.852586,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-11-02,2017,11,False
+AFG323,Afghanistan,03-01-2017,Trump,"Chaknoro, Lal Pura, Nangarhar, Afghanistan","34.354216,70.954680",34.354216,70.95468,6.0,6.0,0.0,0.0,0,0,1,6.0,0.0,False,2017-01-03,2017,1,False
+AFG324,Afghanistan,03-09-2017,Trump,"Lam, Between Nish and Khakriz districts, Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,20.0,20.0,0.0,0.0,0,0,0,20.0,0.0,False,2017-09-03,2017,9,False
+AFG331,Afghanistan,04-04-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,3.0,3.0,3.0,3.0,2,2,4,3.0,3.0,False,2017-04-04,2017,4,False
+AFG332,Afghanistan,04-09-2017,Trump,"Narkh, Maidan Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2017-09-04,2017,9,False
+AFG341,Afghanistan,05-05-2017,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-05-05,2017,5,False
+AFG342,Afghanistan,05-06-2017,Trump,"Maidan Shahr, Maidan Wardak, Afghanistan","34.361059,68.840692",34.361059,68.840692,5.0,6.0,0.0,0.0,0,0,6,6.0,0.0,False,2017-06-05,2017,6,False
+AFG343,Afghanistan,05-08-2017,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,0.0,50.0,0.0,0.0,0,0,0,50.0,0.0,False,2017-08-05,2017,8,False
+AFG351,Afghanistan,06-03-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-03-06,2017,3,False
+AFG352,Afghanistan,06-08-2017,Trump,"Nargose and Chenar area, Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,10.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2017-08-06,2017,8,False
+AFG353,Afghanistan,06-09-2017,Trump,"Loy Bagh, Nad Ali, Helmand, Afghanistan","31.626619,64.254318",31.626619,64.254318,2.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2017-09-06,2017,9,False
+AFG358,Afghanistan,07-01-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,11.0,11.0,0.0,0.0,0,0,0,11.0,0.0,False,2017-01-07,2017,1,False
+AFG359,Afghanistan,07-01-2017,Trump,"Merkikhel, Sherzad, Nangarhar, Afghanistan","34.273230,70.074131",34.27323,70.074131,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-01-07,2017,1,False
+AFG360,Afghanistan,07-02-2017,Trump,"Ainak, Loykahal, Zhawar Sahib, Nawar, Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,1.0,42.0,0.0,0.0,0,0,0,42.0,0.0,False,2017-02-07,2017,2,False
+AFG361,Afghanistan,07-02-2017,Trump,"Zabar village, Gropshash area, Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,15.0,15.0,0.0,0.0,0,0,9,15.0,0.0,False,2017-02-07,2017,2,False
+AFG362,Afghanistan,07-07-2017,Trump,"Oghz, Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,14.0,14.0,0.0,0.0,0,0,11,14.0,0.0,False,2017-07-07,2017,7,False
+AFG363,Afghanistan,07-08-2017,Trump,"Mamozo area, Zurmat, Paktia, Afghanistan","33.330066,69.192391",33.330066,69.192391,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2017-08-07,2017,8,False
+AFG364,Afghanistan,07-08-2017,Trump,"Dawlatzai, Zurmat, Paktia, Afghanistan","33.330066,69.192391",33.330066,69.192391,7.0,16.0,0.0,1.0,0,0,0,16.0,1.0,False,2017-08-07,2017,8,False
+AFG365,Afghanistan,07-09-2017,Trump,"Amber, Qaghayio, Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-09-07,2017,9,False
+AFG366,Afghanistan,07-11-2017,Trump,"Janat Bagh, Khan Abad, Kunduz, Afghanistan","36.681449,69.114905",36.681449,69.114905,5.0,5.0,0.0,0.0,0,0,1,5.0,0.0,False,2017-11-07,2017,11,False
+AFG367,Afghanistan,07-11-2017,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,5.0,11.0,0.0,0.0,0,0,0,11.0,0.0,False,2017-11-07,2017,11,False
+AFG377,Afghanistan,08-04-2017,Trump,"Piri, Musa Khil, Khost, Afghanistan","33.539910,69.788262",33.53991,69.788262,50.0,50.0,0.0,0.0,0,0,3,50.0,0.0,False,2017-04-08,2017,4,False
+AFG378,Afghanistan,08-05-2017,Trump,"Aigal area, Chapa Dara, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2017-05-08,2017,5,False
+AFG379,Afghanistan,08-07-2017,Trump,"Gilan, Ghazni, Afghanistan","34.283333,69.566667",34.283333,69.566667,2.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2017-07-08,2017,7,False
+AFG380,Afghanistan,08-09-2017,Trump,"Masoom area, Alishang district, Laghman, Afghanistan","34.783249,70.107996",34.783249,70.107996,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-09-08,2017,9,False
+AFG381,Afghanistan,08-10-2017,Trump,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,0.0,21.0,0.0,16.0,0,2,0,21.0,16.0,False,2017-10-08,2017,10,False
+AFG382,Afghanistan,08-10-2017,Trump,"Darah Ye Pech, Kunar, Afghanistan","34.872898,71.155620",34.872898,71.15562,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-10-08,2017,10,False
+AFG383,Afghanistan,08-11-2017,Trump,"Maidan Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,9.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2017-11-08,2017,11,False
+AFG384,Afghanistan,08-12-2017,Trump,"Shorshorak, Nawa, Helmand, Afghanistan","32.402668,67.856978",32.402668,67.856978,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2017-12-08,2017,12,False
+AFG391,Afghanistan,09-04-2017,Trump,"Jarji village, Qarabagh, Kabul, Afghanistan","34.846275,69.216232",34.846275,69.216232,0.0,2.0,0.0,2.0,0,0,0,2.0,2.0,False,2017-04-09,2017,4,False
+AFG392,Afghanistan,09-04-2017,Trump,"Chapa Dara, Manogi, Kunar, Afghanistan","34.920175,70.764423",34.920175,70.764423,12.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2017-04-09,2017,4,False
+AFG393,Afghanistan,09-05-2017,Trump,"Zenikhel, Nadir Shahwali Kot, Khost, Afghanistan","32.074077,66.141526",32.074077,66.141526,6.0,6.0,0.0,0.0,0,0,1,6.0,0.0,False,2017-05-09,2017,5,False
+AFG394,Afghanistan,09-09-2017,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-09-09,2017,9,False
+AFG403,Afghanistan,10-10-2017,Trump,"Ghol Pala, Raghistan, Badakhshan, Afghanistan","37.7203194,70.0674579",37.7203194,70.0674579,0.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-10-10,2017,10,False
+AFG404,Afghanistan,10-10-2017,Trump,"Bati Kot, Nangarhar, Afghanistan","34.263148,70.788209",34.263148,70.788209,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-10-10,2017,10,False
+AFG405,Afghanistan,10-11-2017,Trump,"Haska Mena, Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-11-10,2017,11,False
+AFG406,Afghanistan,10-11-2017,Trump,"Bokra area, Syed Karim, Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,11.0,11.0,0.0,0.0,0,0,2,11.0,0.0,False,2017-11-10,2017,11,False
+AFG407,Afghanistan,10-11-2017,Trump,"Wach Ghrak area, Ahmadabad, Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,4.0,4.0,0.0,0.0,0,0,3,4.0,0.0,False,2017-11-10,2017,11,False
+AFG408,Afghanistan,10-12-2017,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,0.0,20.0,0.0,0.0,0,0,0,20.0,0.0,False,2017-12-10,2017,12,False
+AFG412,Afghanistan,11-04-2017,Trump,"Chardara, Kunduz, Afghanistan","36.694511,68.801574",36.694511,68.801574,10.0,80.0,10.0,55.0,0,0,0,80.0,55.0,False,2017-04-11,2017,4,False
+AFG413,Afghanistan,11-04-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,15.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2017-04-11,2017,4,False
+AFG414,Afghanistan,11-05-2017,Trump,"Kohsin, Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",33.688121,69.526123,4.0,4.0,0.0,0.0,0,0,7,4.0,0.0,False,2017-05-11,2017,5,False
+AFG415,Afghanistan,11-05-2017,Trump,"Sayed Karam, Paktia, Afghanistan","33.688121,69.526123",33.688121,69.526123,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-05-11,2017,5,False
+AFG423,Afghanistan,12-01-2017,Trump,"Wazir Tangi, Khogyani, Nangarhar, Afghanistan","34.195889,70.158546",34.195889,70.158546,4.0,4.0,0.0,0.0,0,0,8,4.0,0.0,False,2017-01-12,2017,1,False
+AFG424,Afghanistan,12-01-2017,Trump,"Musa Qala, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2017-01-12,2017,1,False
+AFG425,Afghanistan,12-02-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-02-12,2017,2,False
+AFG426,Afghanistan,12-03-2017,Trump,"Peshogan and Abdul Khel äó†areas, Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-03-12,2017,3,False
+AFG427,Afghanistan,12-04-2017,Trump,"Between Musa Qala and Greskh, Helmand, Afghanistan","32.311872,64.811083",32.311872,64.811083,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2017-04-12,2017,4,False
+AFG428,Afghanistan,12-05-2017,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,25.0,25.0,0.0,0.0,0,0,0,25.0,0.0,False,2017-05-12,2017,5,False
+AFG429,Afghanistan,12-07-2017,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-07-12,2017,7,False
+AFG430,Afghanistan,12-08-2017,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-08-12,2017,8,False
+AFG431,Afghanistan,12-09-2017,Trump,"Zabzak, Tarin Kot, Uruzgan, Afghanistan","32.666404,65.903629",32.666404,65.903629,8.0,8.0,0.0,0.0,0,0,3,8.0,0.0,False,2017-09-12,2017,9,False
+AFG434,Afghanistan,01-11-2018,Trump,"Achin, Nangarhar, Afghanistan","34.08218,70.667034",34.08218,70.667034,8.0,13.0,0.0,0.0,0,0,0,13.0,0.0,False,2018-11-01,2018,11,False
+AFG440,Afghanistan,02-02-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-02-02,2018,2,False
+AFG441,Afghanistan,02-04-2018,Trump,"Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-04-02,2018,4,False
+AFG442,Afghanistan,02-04-2018,Trump,"Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-04-02,2018,4,False
+AFG445,Afghanistan,03-07-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,12.0,21.0,0.0,1.0,0,1,0,21.0,1.0,False,2018-07-03,2018,7,False
+AFG446,Afghanistan,03-08-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-08-03,2018,8,False
+AFG447,Afghanistan,03-09-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-09-03,2018,9,False
+AFG448,Afghanistan,03-11-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,0.0,25.0,0.0,0.0,0,0,0,25.0,0.0,False,2018-11-03,2018,11,False
+AFG455,Afghanistan,04-01-2018,Trump,"Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-01-04,2018,1,False
+AFG456,Afghanistan,04-03-2018,Trump,"Farah and Nimroz, Afghanistan","32.495328,62.262662",32.495328,62.262662,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-03-04,2018,3,False
+AFG457,Afghanistan,04-05-2018,Trump,"Bal Chiragh, Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-05-04,2018,5,False
+AFG458,Afghanistan,04-12-2018,Trump,"Omana, Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,7.0,7.0,0.0,0.0,0,0,3,7.0,0.0,False,2018-12-04,2018,12,False
+AFG459,Afghanistan,04-12-2018,Trump,"Warduj, Badakhshan, Afghanistan","36.734772,70.811995",36.734772,70.811995,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-12-04,2018,12,False
+AFG463,Afghanistan,05-09-2018,Trump,"Sanga Khair, Maqur, Badghis, Afghanistan","32.884051,67.904670",32.884051,67.90467,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-09-05,2018,9,False
+AFG464,Afghanistan,05-09-2018,Trump,"Surgol, Zazi Aryub, Paktia, Afghanistan","33.966154,69.806132",33.966154,69.806132,35.0,35.0,0.0,0.0,0,0,0,35.0,0.0,False,2018-09-05,2018,9,False
+AFG475,Afghanistan,04-06-2018,Trump,"Aloza, Pul e 'Alam, Logar, Afghanistan","33.999937,69.019531",33.999937,69.019531,0.0,13.0,0.0,0.0,0,0,0,13.0,0.0,False,2018-06-04,2018,6,False
+AFG479,Afghanistan,07-01-2018,Trump,"Payin, Chaparhar, Nangarhar, Afghanistan","34.328976,70.407486",34.328976,70.407486,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-01-07,2018,1,False
+AFG480,Afghanistan,07-03-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,0.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-03-07,2018,3,False
+AFG481,Afghanistan,07-12-2018,Trump,"Zurmat, Paktia, Afghanistan","33.435888,69.031453",33.435888,69.031453,0.0,37.0,0.0,11.0,0,3,0,37.0,11.0,False,2018-12-07,2018,12,False
+AFG485,Afghanistan,08-07-2018,Trump,"Azra, Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,9.0,14.0,0.0,0.0,0,0,0,14.0,0.0,False,2018-07-08,2018,7,False
+AFG486,Afghanistan,08-10-2018,Trump,"Ghazni City, Ghazni, Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-10-08,2018,10,False
+AFG492,Afghanistan,09-08-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-08-09,2018,8,False
+AFG493,Afghanistan,09-09-2018,Trump,"Nad Ali, Helmand, Afghanistan","31.664217,64.266149",31.664217,64.266149,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-09-09,2018,9,False
+AFG494,Afghanistan,09-10-2018,Trump,"Nawah, Ghazni, Afghanistan","32.402668,67.856978",32.402668,67.856978,30.0,30.0,0.0,0.0,0,0,0,30.0,0.0,False,2018-10-09,2018,10,False
+AFG502,Afghanistan,10-05-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,30.0,30.0,0.0,0.0,0,0,0,30.0,0.0,False,2018-05-10,2018,5,False
+AFG503,Afghanistan,09-04-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,9.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2018-04-09,2018,4,False
+AFG504,Afghanistan,09-04-2018,Trump,"Herat, Afghanistan","34.352865,62.204028",34.352865,62.204028,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-04-09,2018,4,False
+AFG505,Afghanistan,09-04-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-04-09,2018,4,False
+AFG506,Afghanistan,09-04-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-04-09,2018,4,False
+AFG507,Afghanistan,09-04-2018,Trump,"Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-04-09,2018,4,False
+AFG508,Afghanistan,09-04-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-04-09,2018,4,False
+AFG509,Afghanistan,09-04-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-04-09,2018,4,False
+AFG510,Afghanistan,09-05-2018,Trump,"Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-05-09,2018,5,False
+AFG511,Afghanistan,09-05-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-05-09,2018,5,False
+AFG512,Afghanistan,09-05-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-05-09,2018,5,False
+AFG513,Afghanistan,09-05-2018,Trump,"Kapisa, Afghanistan","34.981057,69.621456",34.981057,69.621456,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-05-09,2018,5,False
+AFG514,Afghanistan,09-05-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2018-05-09,2018,5,False
+AFG515,Afghanistan,09-05-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-05-09,2018,5,False
+AFG516,Afghanistan,09-06-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-06-09,2018,6,False
+AFG517,Afghanistan,09-06-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-09,2018,6,False
+AFG518,Afghanistan,09-06-2018,Trump,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-09,2018,6,False
+AFG519,Afghanistan,09-06-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-06-09,2018,6,False
+AFG520,Afghanistan,09-06-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-06-09,2018,6,False
+AFG521,Afghanistan,09-06-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-06-09,2018,6,False
+AFG522,Afghanistan,09-06-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-06-09,2018,6,False
+AFG523,Afghanistan,09-06-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-09,2018,6,False
+AFG524,Afghanistan,09-07-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-07-09,2018,7,False
+AFG525,Afghanistan,09-07-2018,Trump,"Kabul, Afghanistan","34.555349,69.207486",34.555349,69.207486,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-07-09,2018,7,False
+AFG526,Afghanistan,09-07-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-07-09,2018,7,False
+AFG527,Afghanistan,09-07-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,23.0,23.0,0.0,0.0,0,0,0,23.0,0.0,False,2018-07-09,2018,7,False
+AFG528,Afghanistan,09-07-2018,Trump,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-07-09,2018,7,False
+AFG529,Afghanistan,09-08-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2018-08-09,2018,8,False
+AFG530,Afghanistan,09-08-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-08-09,2018,8,False
+AFG531,Afghanistan,09-08-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-08-09,2018,8,False
+AFG532,Afghanistan,09-09-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-09-09,2018,9,False
+AFG533,Afghanistan,09-09-2018,Trump,"Baghlan, Afghanistan","35.804294,69.287753",35.804294,69.287753,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-09-09,2018,9,False
+AFG534,Afghanistan,09-09-2018,Trump,"Kapisa, Afghanistan","34.981057,69.621456",34.981057,69.621456,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-09-09,2018,9,False
+AFG535,Afghanistan,09-09-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-09-09,2018,9,False
+AFG536,Afghanistan,09-09-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2018-09-09,2018,9,False
+AFG537,Afghanistan,09-09-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-09-09,2018,9,False
+AFG538,Afghanistan,09-09-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-09-09,2018,9,False
+AFG539,Afghanistan,09-10-2018,Trump,"Nawah, Ghazni, Afghanistan","32.402668,67.856978",32.402668,67.856978,2.0,2.0,30.0,30.0,0,0,0,2.0,2.0,False,2018-10-09,2018,10,True
+AFG540,Afghanistan,09-10-2018,Trump,"Baghlan, Afghanistan","35.804294,69.287753",35.804294,69.287753,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-10-09,2018,10,False
+AFG541,Afghanistan,09-10-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-10-09,2018,10,False
+AFG542,Afghanistan,09-10-2018,Trump,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-10-09,2018,10,False
+AFG543,Afghanistan,09-10-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-10-09,2018,10,False
+AFG544,Afghanistan,09-10-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,14.0,14.0,0.0,0.0,0,0,0,14.0,0.0,False,2018-10-09,2018,10,False
+AFG545,Afghanistan,09-10-2018,Trump,"Sar e Pul, Afghanistan","35.670747,66.046353",35.670747,66.046353,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-10-09,2018,10,False
+AFG546,Afghanistan,09-11-2018,Trump,"Baghlan, Afghanistan","35.804294,69.287753",35.804294,69.287753,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-11-09,2018,11,False
+AFG547,Afghanistan,09-11-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-11-09,2018,11,False
+AFG548,Afghanistan,09-11-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-11-09,2018,11,False
+AFG549,Afghanistan,09-11-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-09,2018,11,False
+AFG550,Afghanistan,09-11-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-11-09,2018,11,False
+AFG551,Afghanistan,09-11-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-11-09,2018,11,False
+AFG552,Afghanistan,09-11-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-11-09,2018,11,False
+AFG553,Afghanistan,09-11-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-09,2018,11,False
+AFG554,Afghanistan,09-12-2018,Trump,"Baghlan, Afghanistan","35.804294,69.287753",35.804294,69.287753,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-12-09,2018,12,False
+AFG555,Afghanistan,09-12-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-12-09,2018,12,False
+AFG556,Afghanistan,09-12-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-12-09,2018,12,False
+AFG557,Afghanistan,09-12-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2018-12-09,2018,12,False
+AFG558,Afghanistan,09-12-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-12-09,2018,12,False
+AFG559,Afghanistan,09-12-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-12-09,2018,12,False
+AFG649,Afghanistan,10-01-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-01-10,2018,1,False
+AFG650,Afghanistan,10-01-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-01-10,2018,1,False
+AFG651,Afghanistan,10-01-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-01-10,2018,1,False
+AFG652,Afghanistan,10-01-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-01-10,2018,1,False
+AFG653,Afghanistan,10-01-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-01-10,2018,1,False
+AFG654,Afghanistan,10-02-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-02-10,2018,2,False
+AFG655,Afghanistan,10-02-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-02-10,2018,2,False
+AFG656,Afghanistan,10-02-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-02-10,2018,2,False
+AFG657,Afghanistan,10-02-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-02-10,2018,2,False
+AFG658,Afghanistan,10-03-2018,Trump,"Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-03-10,2018,3,False
+AFG659,Afghanistan,10-03-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-03-10,2018,3,False
+AFG660,Afghanistan,10-03-2018,Trump,"Jawzjan, Afghanistan","36.896969,65.665856",36.896969,65.665856,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-03-10,2018,3,False
+AFG661,Afghanistan,10-03-2018,Trump,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-03-10,2018,3,False
+AFG662,Afghanistan,10-03-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-03-10,2018,3,False
+AFG663,Afghanistan,10-03-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-03-10,2018,3,False
+AFG664,Afghanistan,10-03-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-03-10,2018,3,False
+AFG665,Afghanistan,10-03-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-03-10,2018,3,False
+AFG666,Afghanistan,10-03-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-03-10,2018,3,False
+AFG667,Afghanistan,10-04-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-04-10,2018,4,False
+AFG668,Afghanistan,10-04-2018,Trump,"Herat, Afghanistan","34.352865,62.204028",34.352865,62.204028,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-04-10,2018,4,False
+AFG669,Afghanistan,10-04-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-04-10,2018,4,False
+AFG670,Afghanistan,10-04-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-04-10,2018,4,False
+AFG671,Afghanistan,10-05-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,1.0,1.0,0.0,30.0,0,0,0,1.0,1.0,False,2018-05-10,2018,5,True
+AFG672,Afghanistan,10-05-2018,Trump,"Badghis, Afghanistan","35.167133,63.769538",35.167133,63.769538,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-05-10,2018,5,False
+AFG674,Afghanistan,10-05-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-05-10,2018,5,False
+AFG675,Afghanistan,10-05-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-05-10,2018,5,False
+AFG676,Afghanistan,10-05-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-05-10,2018,5,False
+AFG677,Afghanistan,10-05-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-05-10,2018,5,False
+AFG678,Afghanistan,10-05-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-05-10,2018,5,False
+AFG679,Afghanistan,10-06-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-06-10,2018,6,False
+AFG680,Afghanistan,10-06-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG681,Afghanistan,10-06-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-06-10,2018,6,False
+AFG682,Afghanistan,10-06-2018,Trump,"Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG683,Afghanistan,10-06-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-06-10,2018,6,False
+AFG684,Afghanistan,10-06-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG685,Afghanistan,10-06-2018,Trump,"Paktika, Afghanistan","32.264538,68.524714",32.264538,68.524714,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG686,Afghanistan,10-06-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG687,Afghanistan,10-06-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+AFG688,Afghanistan,10-07-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-07-10,2018,7,False
+AFG689,Afghanistan,10-07-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-07-10,2018,7,False
+AFG690,Afghanistan,10-07-2018,Trump,"Ghazni, Afghanistan","33.545058,68.417397",33.545058,68.417397,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-07-10,2018,7,False
+AFG691,Afghanistan,10-07-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-07-10,2018,7,False
+AFG692,Afghanistan,10-07-2018,Trump,"Kunar, Afghanistan","34.846589,71.097316",34.846589,71.097316,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-07-10,2018,7,False
+AFG693,Afghanistan,10-07-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-07-10,2018,7,False
+AFG694,Afghanistan,10-08-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-08-10,2018,8,False
+AFG695,Afghanistan,10-08-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-08-10,2018,8,False
+AFG696,Afghanistan,10-08-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-08-10,2018,8,False
+AFG697,Afghanistan,10-08-2018,Trump,"Zabul, Afghanistan","32.191878,67.189448",32.191878,67.189448,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-08-10,2018,8,False
+AFG698,Afghanistan,10-09-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-09-10,2018,9,False
+AFG699,Afghanistan,10-09-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-09-10,2018,9,False
+AFG700,Afghanistan,10-09-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-09-10,2018,9,False
+AFG701,Afghanistan,10-09-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-09-10,2018,9,False
+AFG702,Afghanistan,10-09-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-09-10,2018,9,False
+AFG703,Afghanistan,10-10-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,4.0,4.0,0.0,17.0,0,0,0,4.0,4.0,False,2018-10-10,2018,10,True
+AFG704,Afghanistan,10-10-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-10-10,2018,10,False
+AFG705,Afghanistan,10-10-2018,Trump,"Laghman, Afghanistan","34.689768,70.145580",34.689768,70.14558,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-10-10,2018,10,False
+AFG706,Afghanistan,10-10-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-10-10,2018,10,False
+AFG707,Afghanistan,10-10-2018,Trump,"Paktia, Afghanistan","33.706199,69.383107",33.706199,69.383107,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-10-10,2018,10,False
+AFG708,Afghanistan,10-10-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2018-10-10,2018,10,False
+AFG709,Afghanistan,10-10-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-10-10,2018,10,False
+AFG710,Afghanistan,10-11-2018,Trump,"Faryab, Afghanistan","36.079561,64.905954",36.079561,64.905954,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-10,2018,11,False
+AFG711,Afghanistan,10-11-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2018-11-10,2018,11,False
+AFG712,Afghanistan,10-11-2018,Trump,"Jawzjan, Afghanistan","36.896969,65.665856",36.896969,65.665856,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-10,2018,11,False
+AFG713,Afghanistan,10-11-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-11-10,2018,11,False
+AFG714,Afghanistan,10-11-2018,Trump,"Parwan, Afghanistan","34.963097,68.810884",34.963097,68.810884,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-11-10,2018,11,False
+AFG715,Afghanistan,10-11-2018,Trump,"Uruzgan, Afghanistan","32.927128,66.141526",32.927128,66.141526,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-10,2018,11,False
+AFG716,Afghanistan,10-11-2018,Trump,"Wardak, Afghanistan","34.351349,68.238533",34.351349,68.238533,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-11-10,2018,11,False
+AFG717,Afghanistan,10-12-2018,Trump,"Helmand, Afghanistan","31.363647,63.958611",31.363647,63.958611,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-12-10,2018,12,False
+AFG718,Afghanistan,10-12-2018,Trump,"Kandahar, Afghanistan","31.628871,65.737174",31.628871,65.737174,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-12-10,2018,12,False
+AFG719,Afghanistan,10-12-2018,Trump,"Khost, Afghanistan","33.333847,69.937167",33.333847,69.937167,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-12-10,2018,12,False
+AFG720,Afghanistan,10-12-2018,Trump,"Kunduz, Afghanistan","36.728590,68.868066",36.72859,68.868066,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-12-10,2018,12,False
+AFG721,Afghanistan,10-12-2018,Trump,"Logar, Afghanistan","34.014551,69.192391",34.014551,69.192391,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-12-10,2018,12,False
+AFG722,Afghanistan,10-12-2018,Trump,"Nangarhar, Afghanistan","34.171831,70.621679",34.171831,70.621679,9.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2018-12-10,2018,12,False
+AFG723,Afghanistan,10-12-2018,Trump,"Parwan, Afghanistan","34.963097,68.810884",34.963097,68.810884,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-12-10,2018,12,False
+AFG824,Afghanistan,11-09-2018,Trump,"Farah, Afghanistan","32.446463,62.145413",32.446463,62.145413,1.0,1.0,7.0,7.0,0,0,0,1.0,1.0,False,2018-09-11,2018,9,True
+B10,Pakistan,11-02-2007,Bush,"Danda Darpakhel, North Waziristan, Pakistan","32.990218,70.051802",32.990218,70.051802,5.0,10.0,0.0,0.0,0,0,6,10.0,0.0,False,2007-02-11,2007,2,False
+B11,Pakistan,12-03-2007,Bush,"Jani Khel, Bannu Frontier Region, Pakistan","32.800938,70.508644",32.800938,70.508644,0.0,0.0,0.0,0.0,0,0,1,0.0,0.0,False,2007-03-12,2007,3,False
+B18,Pakistan,08-12-2008,Bush,"Bhaggar, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,12.0,25.0,0.0,5.0,0,0,0,25.0,5.0,False,2008-12-08,2008,12,False
+B2,Pakistan,05-08-2005,Bush,"Toorikhel, North Waziristan, Pakistan","32.846798,70.331605",32.846798,70.331605,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2005-08-05,2005,8,False
+B23,Pakistan,09-02-2008,Bush,"North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,0.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2008-02-09,2008,2,False
+B24,Pakistan,09-04-2008,Bush,"Mohammad Khel, North Waziristan, Pakistan","32.957056,69.885054",32.957056,69.885054,5.0,7.0,0.0,0.0,0,0,3,7.0,0.0,False,2008-04-09,2008,4,False
+B25,Pakistan,09-05-2008,Bush,"Gurwak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,12.0,5.0,7.0,3,4,0,12.0,7.0,False,2008-05-09,2008,5,False
+B26,Pakistan,09-08-2008,Bush,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,17.0,23.0,11.0,20.0,5,8,14,23.0,20.0,False,2008-08-09,2008,8,False
+B27,Pakistan,09-12-2008,Bush,"Tol Khel, North Waziristan, Pakistan","33.044885,70.080086",33.044885,70.080086,12.0,15.0,3.0,5.0,2,2,14,15.0,5.0,False,2008-12-09,2008,12,False
+B3,Pakistan,11-05-2005,Bush,"Mosaki, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,8.0,8.0,3.0,8.0,2,3,1,8.0,8.0,False,2005-05-11,2005,5,False
+B30,Pakistan,10-03-2008,Bush,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,3.0,3.0,3.0,3.0,1,1,5,3.0,3.0,False,2008-03-10,2008,3,False
+B31,Pakistan,10-03-2008,Bush,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,17.0,21.0,7.0,14.0,3,3,0,21.0,14.0,False,2008-03-10,2008,3,False
+B32,Pakistan,10-09-2008,Bush,"Tati, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,9.0,1.0,9.0,1,4,2,9.0,9.0,False,2008-09-10,2008,9,False
+B33,Pakistan,10-11-2008,Bush,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,4.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2008-11-10,2008,11,False
+B39,Pakistan,11-07-2008,Bush,"Kumsham, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,11.0,16.0,6.0,11.0,0,0,17,16.0,11.0,False,2008-07-11,2008,7,False
+B4,Pakistan,12-01-2005,Bush,"Haisori, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,6.0,6.0,2.0,3.0,2,2,0,6.0,3.0,False,2005-01-12,2005,1,False
+B45,Pakistan,12-05-2008,Bush,"Kateera, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,3.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2008-05-12,2008,5,False
+B46,Pakistan,12-11-2008,Bush,"Azam Warsak, South Waziristan, Pakistan","32.290733,69.428547",32.290733,69.428547,6.0,7.0,0.0,7.0,0,0,0,7.0,7.0,False,2008-11-12,2008,11,False
+B50,Pakistan,01-01-2009,Bush,"Kari Kot, South Waziristan, Pakistan","32.270651,69.554179",32.270651,69.554179,3.0,5.0,0.0,0.0,0,0,1,5.0,0.0,False,2009-01-01,2009,1,False
+B51,Pakistan,01-02-2009,Bush,"Madin Village, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,3.0,4.0,0.0,0.0,0,0,3,4.0,0.0,False,2009-02-01,2009,2,False
+Ob10,Pakistan,04-01-2009,Obama,"Khadezai, Orakzai Agency, Pakistan","33.640688,70.775759",33.640688,70.775759,10.0,14.0,5.0,5.0,3,3,4,14.0,5.0,False,2009-01-04,2009,1,False
+Ob11,Pakistan,04-04-2009,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,13.0,15.0,8.0,13.0,3,5,1,15.0,13.0,False,2009-04-04,2009,4,False
+Ob114,Pakistan,09-03-2010,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,6.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2010-03-09,2010,3,False
+Ob115,Pakistan,09-03-2010,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,2.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2010-03-09,2010,3,False
+Ob116,Pakistan,09-04-2010,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,7.0,8.0,0.0,0.0,0,0,12,8.0,0.0,False,2010-04-09,2010,4,False
+Ob117,Pakistan,09-06-2010,Obama,"Khar Qamar, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,3.0,6.0,0.0,0.0,0,0,1,6.0,0.0,False,2010-06-09,2010,6,False
+Ob118,Pakistan,09-08-2010,Obama,"Danda Darpakhel, North Waziristan, Pakistan","32.990218,70.051802",32.990218,70.051802,5.0,10.0,4.0,4.0,4,4,2,10.0,4.0,False,2010-08-09,2010,8,False
+Ob119,Pakistan,09-08-2010,Obama,"Ambar Shaga, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,3.0,4.0,0.0,4.0,0,0,1,4.0,4.0,False,2010-08-09,2010,8,False
+Ob12,Pakistan,04-08-2009,Obama,"Ganki Khel, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,3.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2009-08-04,2009,8,False
+Ob120,Pakistan,09-08-2010,Obama,"Danda Darpakhel, North Waziristan, Pakistan","32.990218,70.051802",32.990218,70.051802,10.0,10.0,0.0,0.0,0,0,2,10.0,0.0,False,2010-08-09,2010,8,False
+Ob121,Pakistan,09-09-2010,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,3.0,6.0,0.0,0.0,0,0,3,6.0,0.0,False,2010-09-09,2010,9,False
+Ob122,Pakistan,09-12-2010,Obama,"Newey Adda, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,7.0,0.0,0.0,0,0,2,7.0,0.0,False,2010-12-09,2010,12,False
+Ob137,Pakistan,10-02-2010,Obama,"Asar Village, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,8.0,10.0,0.0,0.0,0,0,2,10.0,0.0,False,2010-02-10,2010,2,False
+Ob138,Pakistan,10-02-2010,Obama,"Inzarkas, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,7.0,14.0,0.0,0.0,0,0,2,14.0,0.0,False,2010-02-10,2010,2,False
+Ob139,Pakistan,10-04-2010,Obama,"Mir Ali, North Waziristan, Pakistan","32.970019,70.277584",32.970019,70.277584,5.0,9.0,0.0,3.0,0,0,2,9.0,3.0,False,2010-04-10,2010,4,False
+Ob140,Pakistan,10-06-2010,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,5.0,11.0,0.0,0.0,0,0,4,11.0,0.0,False,2010-06-10,2010,6,False
+Ob141,Pakistan,10-06-2010,Obama,"Hurmuz, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,3.0,5.0,0.0,0.0,0,0,3,5.0,0.0,False,2010-06-10,2010,6,False
+Ob142,Pakistan,10-07-2010,Obama,"Khaisoori, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2010-07-10,2010,7,False
+Ob143,Pakistan,10-08-2010,Obama,"Mohammad Khel, North Waziristan, Pakistan","32.957056,69.885054",32.957056,69.885054,4.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2010-08-10,2010,8,False
+Ob144,Pakistan,10-08-2010,Obama,"Char Khel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,8.0,0.0,4.0,0,0,0,8.0,4.0,False,2010-08-10,2010,8,False
+Ob145,Pakistan,10-10-2010,Obama,"Shiva, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,9.0,0.0,0.0,0,0,3,9.0,0.0,False,2010-10-10,2010,10,False
+Ob15,Pakistan,05-09-2009,Obama,"Tabbi Langhar Khel, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,6.0,25.0,0.0,4.0,0,0,7,25.0,4.0,False,2009-09-05,2009,9,False
+Ob153,Pakistan,11-01-2010,Obama,"Haider Khel, North Waziristan, Pakistan","32.944834,70.301845",32.944834,70.301845,5.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2010-01-11,2010,1,False
+Ob154,Pakistan,11-03-2010,Obama,"Qutab Khel, North Waziristan, Pakistan","32.968480,70.059245",32.96848,70.059245,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2010-03-11,2010,3,False
+Ob155,Pakistan,11-03-2010,Obama,"Khaso Khel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2010-03-11,2010,3,False
+Ob156,Pakistan,11-03-2010,Obama,"Pai Khel, North Waziristan, Pakistan","32.971734,69.839638",32.971734,69.839638,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2010-03-11,2010,3,False
+Ob157,Pakistan,11-07-2010,Obama,"Ghulam Khan, North Waziristan, Pakistan","33.098257,69.978855",33.098257,69.978855,8.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2010-07-11,2010,7,False
+Ob158,Pakistan,11-07-2010,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,3.0,6.0,0.0,0.0,0,0,1,6.0,0.0,False,2010-07-11,2010,7,False
+Ob159,Pakistan,11-11-2010,Obama,"Ghulam Khan, North Waziristan, Pakistan","33.098257,69.978855",33.098257,69.978855,5.0,8.0,0.0,0.0,0,0,5,8.0,0.0,False,2010-11-11,2010,11,False
+Ob16,Pakistan,05-12-2009,Obama,"Sara Khwara, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,5.0,9.0,0.0,0.0,0,0,4,9.0,0.0,False,2009-12-05,2009,12,False
+Ob167,Pakistan,12-06-2010,Obama,"Khushali, North Waziristan, Pakistan","32.938775,70.248273",32.938775,70.248273,3.0,5.0,0.0,2.0,0,0,3,5.0,2.0,False,2010-06-12,2010,6,False
+Ob168,Pakistan,12-06-2010,Obama,"Kushali, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2010-06-12,2010,6,False
+Ob169,Pakistan,12-10-2010,Obama,"Khadar Khel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2010-10-12,2010,10,False
+Ob181,Pakistan,01-01-2011,Obama,"Mandi Khel, North Waziristan, Pakistan","33.001031,70.364339",33.001031,70.364339,8.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2011-01-01,2011,1,False
+Ob182,Pakistan,01-01-2011,Obama,"Mandi Khel, North Waziristan, Pakistan","33.001031,70.364339",33.001031,70.364339,4.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2011-01-01,2011,1,False
+Ob183,Pakistan,01-01-2011,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2011-01-01,2011,1,False
+Ob184,Pakistan,01-01-2011,Obama,"Boya, North Waziristan, Pakistan","32.943336,69.899944",32.943336,69.899944,4.0,4.0,0.0,0.0,0,0,4,4.0,0.0,False,2011-01-01,2011,1,False
+Ob185,Pakistan,01-07-2011,Obama,"Ghar Laley, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,1.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2011-07-01,2011,7,False
+Ob186,Pakistan,01-12-2011,Obama,"Haider Khel, North Waziristan, Pakistan","32.944834,70.301845",32.944834,70.301845,3.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2011-12-01,2011,12,False
+Ob194,Pakistan,03-08-2011,Obama,"Landidog, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,2.0,5.0,0.0,5.0,0,0,2,5.0,5.0,False,2011-08-03,2011,8,False
+Ob195,Pakistan,03-09-2011,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,5.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2011-09-03,2011,9,False
+Ob196,Pakistan,03-11-2011,Obama,"Khesoor, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,12.0,5.0,5.0,0,0,0,12.0,5.0,False,2011-11-03,2011,11,False
+Ob197,Pakistan,03-11-2011,Obama,"Ghoroski, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2011-11-03,2011,11,False
+Ob205,Pakistan,05-06-2011,Obama,"Dwa Tooe, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,7.0,18.0,6.0,6.0,0,0,4,18.0,6.0,False,2011-06-05,2011,6,False
+Ob206,Pakistan,05-10-2011,Obama,"Angor Adda, South Waziristan, Pakistan","32.514466,69.290733",32.514466,69.290733,3.0,5.0,0.0,0.0,0,0,4,5.0,0.0,False,2011-10-05,2011,10,False
+Ob207,Pakistan,05-12-2011,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,5.0,8.0,0.0,0.0,0,0,1,8.0,0.0,False,2011-12-05,2011,12,False
+Ob213,Pakistan,06-03-2011,Obama,"Ghwa Khwa, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,5.0,12.0,0.0,0.0,0,0,1,12.0,0.0,False,2011-03-06,2011,3,False
+Ob214,Pakistan,06-06-2011,Obama,"Tigger, Toji Khel Wazir, South Waziristan, Pakistan","32.956557,70.532443",32.956557,70.532443,7.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2011-06-06,2011,6,False
+Ob215,Pakistan,06-06-2011,Obama,"Wacha Dana, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,8.0,10.0,0.0,7.0,0,0,3,10.0,7.0,False,2011-06-06,2011,6,False
+Ob216,Pakistan,06-06-2011,Obama,"Darnashtra, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,3.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2011-06-06,2011,6,False
+Ob217,Pakistan,06-08-2011,Obama,"Zoynari, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,18.0,23.0,0.0,0.0,0,0,6,23.0,0.0,False,2011-08-06,2011,8,False
+Ob218,Pakistan,06-08-2011,Obama,"Shawal, South Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2011-08-06,2011,8,False
+Ob22,Pakistan,07-03-2009,Obama,"Mantoi, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,0.0,5.0,0.0,5.0,0,0,0,5.0,5.0,False,2009-03-07,2009,3,False
+Ob226,Pakistan,07-05-2011,Obama,"Mir Ali, North Waziristan, Pakistan","32.970019,70.277584",32.970019,70.277584,4.0,6.0,0.0,3.0,0,2,5,6.0,3.0,False,2011-05-07,2011,5,False
+Ob227,Pakistan,07-11-2011,Obama,"Gurwak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,12.0,0.0,0.0,0,0,2,12.0,0.0,False,2011-11-07,2011,11,False
+Ob228,Pakistan,07-12-2011,Obama,"Gurwak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,12.0,25.0,0.0,0.0,0,0,0,25.0,0.0,False,2011-12-07,2011,12,False
+Ob229,Pakistan,07-12-2011,Obama,"Barmal, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,5.0,13.0,0.0,0.0,0,0,3,13.0,0.0,False,2011-12-07,2011,12,False
+Ob23,Pakistan,07-03-2009,Obama,"Zamarai Nairai, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,10.0,17.0,0.0,0.0,0,0,27,17.0,0.0,False,2009-03-07,2009,3,False
+Ob230,Pakistan,07-12-2011,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,13.0,15.0,0.0,4.0,0,0,0,15.0,4.0,False,2011-12-07,2011,12,False
+Ob231,Pakistan,07-12-2011,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,1.0,9.0,1.0,1.0,0,0,3,9.0,1.0,False,2011-12-07,2011,12,False
+Ob233,Pakistan,08-01-2011,Obama,"Azam Warsak, South Waziristan, Pakistan","32.290733,69.428547",32.290733,69.428547,3.0,6.0,0.0,6.0,0,0,2,6.0,6.0,False,2011-01-08,2011,1,False
+Ob234,Pakistan,08-02-2011,Obama,"Qutab Khel, North Waziristan, Pakistan","32.968480,70.059245",32.96848,70.059245,3.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2011-02-08,2011,2,False
+Ob235,Pakistan,08-10-2011,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,8.0,25.0,0.0,0.0,0,0,3,25.0,0.0,False,2011-10-08,2011,10,False
+Ob239,Pakistan,09-11-2011,Obama,"Hisokhel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,1.0,5.0,0.0,0.0,0,0,1,5.0,0.0,False,2011-11-09,2011,11,False
+Ob24,Pakistan,07-07-2009,Obama,"Makeen, South Waziristan, Pakistan","32.626574,69.841871",32.626574,69.841871,14.0,18.0,0.0,0.0,0,0,10,18.0,0.0,False,2009-07-07,2009,7,False
+Ob25,Pakistan,07-08-2009,Obama,"Ladha, South Waziristan, Pakistan","32.645780,70.121765",32.64578,70.121765,8.0,10.0,0.0,0.0,0,0,5,10.0,0.0,False,2009-08-07,2009,8,False
+Ob252,Pakistan,11-03-2011,Obama,"Sarai Darpa Khel, Miranshah, North Waziristan, Pakistan","32.988068,70.051058",32.988068,70.051058,2.0,3.0,0.0,0.0,0,0,3,3.0,0.0,False,2011-03-11,2011,3,False
+Ob256,Pakistan,01-10-2012,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,1.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2012-10-01,2012,10,False
+Ob257,Pakistan,01-12-2012,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,5.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2012-12-01,2012,12,False
+Ob26,Pakistan,07-08-2009,Obama,"Ladha, South Waziristan, Pakistan","32.645780,70.121765",32.64578,70.121765,35.0,40.0,0.0,0.0,0,0,1,40.0,0.0,False,2009-08-07,2009,8,False
+Ob260,Pakistan,02-08-2012,Obama,"Miranshah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,9.0,10.0,0.0,0.0,0,0,2,10.0,0.0,False,2012-08-02,2012,8,False
+Ob261,Pakistan,02-09-2012,Obama,"Miranshah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,3.0,8.0,0.0,3.0,0,1,3,8.0,3.0,False,2012-09-02,2012,9,False
+Ob264,Pakistan,03-09-2012,Obama,"Shaktoi Mandao, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,4.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2012-09-03,2012,9,False
+Ob265,Pakistan,03-09-2012,Obama,"Nishpa, South Waziristan, Pakistan","32.662340,70.043242",32.66234,70.043242,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2012-09-03,2012,9,False
+Ob27,Pakistan,07-10-2009,Obama,"Painda Khel, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,3.0,5.0,0.0,0.0,0,0,3,5.0,0.0,False,2009-10-07,2009,10,False
+Ob270,Pakistan,05-05-2012,Obama,"Guldar Kot, Dre Nishtar area, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,8.0,10.0,0.0,0.0,0,0,1,10.0,0.0,False,2012-05-05,2012,5,False
+Ob276,Pakistan,06-02-2012,Obama,"Khawashi Khel, near Wana, South Waziristan, Pakistan","32.298231,69.597624",32.298231,69.597624,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2012-02-06,2012,2,False
+Ob277,Pakistan,06-03-2012,Obama,"Landai Warai, Tehsil Birmal, South Waziristan, Pakistan","32.531666,69.322777",32.531666,69.322777,0.0,10.0,0.0,0.0,0,0,4,10.0,0.0,False,2012-03-06,2012,3,False
+Ob278,Pakistan,06-04-2012,Obama,"Khushali, Tehsil Mir Ali, North Waziristan, Pakistan","32.938775,70.248273",32.938775,70.248273,14.0,18.0,0.0,6.0,0,0,3,18.0,6.0,False,2012-04-06,2012,4,False
+Ob282,Pakistan,07-01-2012,Obama,"Dre Nishter/Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,6.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2012-01-07,2012,1,False
+Ob283,Pakistan,07-06-2012,Obama,"Maizer, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,13.0,24.0,3.0,18.0,0,0,2,24.0,18.0,False,2012-06-07,2012,6,False
+Ob29,Pakistan,08-05-2009,Obama,"Ladha, South Waziristan, Pakistan","32.645780,70.121765",32.64578,70.121765,1.0,12.0,1.0,4.0,0,0,5,12.0,4.0,False,2009-05-08,2009,5,False
+Ob293,Pakistan,09-01-2012,Obama,"Degan, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2012-01-09,2012,1,False
+Ob296,Pakistan,10-01-2012,Obama,"Khadar Khel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2012-01-10,2012,1,False
+Ob297,Pakistan,10-10-2012,Obama,"Hurmaz, Teshil Mir Ali, North Waziristan, Pakistan","32.970972,70.263154",32.970972,70.263154,3.0,6.0,0.0,0.0,0,0,3,6.0,0.0,False,2012-10-10,2012,10,False
+Ob298,Pakistan,10-11-2012,Obama,"Buland Khel, Orakzai Agency, Pakistan","33.667137,70.954680",33.667137,70.95468,16.0,26.0,0.0,2.0,0,0,5,26.0,2.0,False,2012-11-10,2012,11,False
+Ob30,Pakistan,08-11-2009,Obama,"Ladha, South Waziristan, Pakistan","32.645780,70.121765",32.64578,70.121765,12.0,25.0,0.0,6.0,4,4,5,25.0,6.0,False,2009-11-08,2009,11,False
+Ob301,Pakistan,12-01-2012,Obama,"Shin Warsak, South Waziristan, Pakistan","32.246388,69.509999",32.246388,69.509999,1.0,4.0,0.0,0.0,0,0,3,4.0,0.0,False,2012-01-12,2012,1,False
+Ob302,Pakistan,12-06-2012,Obama,"Noorak Mubarak Shahi area, Tehsil Mir Ali, North Waziristan, Pakistan","32.957482,70.168650",32.957482,70.16865,2.0,11.0,1.0,1.0,0,0,1,11.0,1.0,False,2012-06-12,2012,6,False
+Ob303,Pakistan,12-09-2012,Obama,"Tabbi Tor Khel, Tehisl Ghulam Khan, North Waziristan, Pakistan","33.098257,69.978855",33.098257,69.978855,2.0,4.0,0.0,3.0,0,0,0,4.0,3.0,False,2012-09-12,2012,9,False
+Ob306,Pakistan,01-02-2013,Obama,"Lajhmarai area, Tehsil Birmal, South Waziristan, Pakistan","32.378567,69.430782",32.378567,69.430782,6.0,11.0,0.0,0.0,0,0,0,11.0,0.0,False,2013-02-01,2013,2,False
+Ob307,Pakistan,01-03-2013,Obama,"Ghundi Killi, Tappi area, Tehsil Miranshah, North Waziristan, Pakistan","32.947289,70.147813",32.947289,70.147813,3.0,6.0,0.0,0.0,0,0,1,6.0,0.0,False,2013-03-01,2013,3,False
+Ob308,Pakistan,01-06-2013,Obama,"Smal Narai area, Tehsil Ladha, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,8.0,18.0,0.0,0.0,0,0,3,18.0,0.0,False,2013-06-01,2013,6,False
+Ob309,Pakistan,01-08-2013,Obama,"Haiderkhel, near Mir Ali, North Waziristan, Pakistan","32.970019,70.277584",32.970019,70.277584,4.0,9.0,0.0,2.0,0,1,1,9.0,2.0,False,2013-08-01,2013,8,False
+Ob310,Pakistan,01-08-2013,Obama,"Malangan Hassokhel, Tehsil Mir Ali, North Waziristan, Pakistan","32.954822,70.288452",32.954822,70.288452,0.0,9.0,0.0,0.0,0,0,1,9.0,0.0,False,2013-08-01,2013,8,False
+Ob311,Pakistan,01-10-2013,Obama,"Hassokhel, near Mir Ali, North Waziristan, Pakistan","32.970019,70.277584",32.970019,70.277584,3.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2013-10-01,2013,10,False
+Ob312,Pakistan,02-06-2013,Obama,"Spinwam, North Waziristan, Pakistan","33.178889,70.394096",33.178889,70.394096,3.0,5.0,0.0,2.0,0,0,1,5.0,2.0,False,2013-06-02,2013,6,False
+Ob313,Pakistan,02-08-2013,Obama,"Babar Ghar, South Waziristan, Pakistan","32.320237,69.859740",32.320237,69.85974,6.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2013-08-02,2013,8,False
+Ob314,Pakistan,03-10-2013,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,1.0,3.0,0.0,0.0,0,0,1,3.0,0.0,False,2013-10-03,2013,10,False
+Ob319,Pakistan,06-07-2013,Obama,"Shui Khel Mandi, Tehsil Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,7.0,11.0,0.0,0.0,0,0,3,11.0,0.0,False,2013-07-06,2013,7,False
+Ob320,Pakistan,07-03-2013,Obama,"Shui Khel Mandi, Tehsil Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,16.0,18.0,0.0,0.0,0,0,5,18.0,0.0,False,2013-03-07,2013,3,False
+Ob324,Pakistan,09-06-2013,Obama,"Tabi, Tehsil Ghulam Khan, North Waziristan, Pakistan","33.098257,69.978855",33.098257,69.978855,5.0,7.0,0.0,0.0,0,0,3,7.0,0.0,False,2013-06-09,2013,6,False
+Ob329,Pakistan,11-01-2013,Obama,"Dandi Darpakhel, North Waziristan, Pakistan","32.990218,70.051802",32.990218,70.051802,4.0,7.0,0.0,0.0,0,0,2,7.0,0.0,False,2013-01-11,2013,1,False
+Ob33,Pakistan,09-07-2009,Obama,"Machi Khel, North Waziristan, Pakistan","33.029133,70.246785",33.029133,70.246785,5.0,8.0,3.0,3.0,0,0,2,8.0,3.0,False,2009-07-09,2009,7,False
+Ob333,Pakistan,06-11-2014,Obama,"Tabi Tolkhel or Darga Mandi, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2014-11-06,2014,11,False
+Ob334,Pakistan,06-12-2014,Obama,"Darga Mandi, Dande Darpakhel or Ghulam Khan, North Waziristan, Pakistan","32.990218,70.051802",32.990218,70.051802,6.0,10.0,0.0,0.0,0,0,4,10.0,0.0,False,2014-12-06,2014,12,False
+Ob336,Pakistan,07-10-2014,Obama,"Madakhel village, Datta Khel Tehsil, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,6.0,7.0,0.0,0.0,0,0,2,7.0,0.0,False,2014-10-07,2014,10,False
+Ob339,Pakistan,08-05-2014,Obama,"Lawara Mandi village, Datta Khel tehsil, North Waziristan, Pakistan","33.143910,70.030217",33.14391,70.030217,5.0,7.0,0.0,0.0,0,0,2,7.0,0.0,False,2014-05-08,2014,5,False
+Ob34,Pakistan,09-08-2009,Obama,"Darga Mandi, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,10.0,15.0,5.0,5.0,3,3,4,15.0,5.0,False,2009-08-09,2009,8,False
+Ob342,Pakistan,10-05-2014,Obama,"Kundhgar, Shawal, South Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2014-05-10,2014,5,False
+Ob343,Pakistan,10-06-2014,Obama,"Mangrotai, Shawal, South Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,8.0,0.0,0.0,0,0,4,8.0,0.0,False,2014-06-10,2014,6,False
+Ob344,Pakistan,10-07-2014,Obama,"Kundhgar, Shawal, South Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,7.0,0.0,0.0,0,0,5,7.0,0.0,False,2014-07-10,2014,7,False
+Ob345,Pakistan,10-07-2014,Obama,"Kundser, Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,2.0,4.0,0.0,0.0,0,0,5,4.0,0.0,False,2014-07-10,2014,7,False
+Ob346,Pakistan,10-08-2014,Obama,"Loman, Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,2.0,4.0,0.0,0.0,0,0,1,4.0,0.0,False,2014-08-10,2014,8,False
+Ob347,Pakistan,10-09-2014,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,3.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2014-09-10,2014,9,False
+Ob348,Pakistan,10-11-2014,Obama,"Tirah Valley, Khyber Agency, Pakistan","33.815206,70.748053",33.815206,70.748053,4.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2014-11-10,2014,11,False
+Ob349,Pakistan,10-11-2014,Obama,"Marga, Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2014-11-10,2014,11,False
+Ob351,Pakistan,11-11-2014,Obama,"Dawa Toi, Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,4.0,7.0,0.0,2.0,0,2,2,7.0,2.0,False,2014-11-11,2014,11,False
+Ob354,Pakistan,12-07-2014,Obama,"Khar Tangi, Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,4.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2014-07-12,2014,7,False
+Ob358,Pakistan,01-04-2015,Obama,"Alwara Mandi, Datta Khel or Shawal, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,6.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2015-04-01,2015,4,False
+Ob364,Pakistan,04-12-2015,Obama,"Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2015-12-04,2015,12,False
+Ob367,Pakistan,06-01-2015,Obama,"Shawal, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2015-01-06,2015,1,False
+Ob368,Pakistan,06-06-2015,Obama,"Shawal or Datta Khel, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,7.0,9.0,0.0,3.0,0,0,4,9.0,3.0,False,2015-06-06,2015,6,False
+Ob369,Pakistan,08-06-2015,Obama,"Alwara Mandi area, Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,4.0,7.0,0.0,0.0,0,0,2,7.0,0.0,False,2015-06-08,2015,6,False
+Ob370,Pakistan,09-01-2015,Obama,"Karwanda village, Manzarkhel area, Dattakhel sub-division or Lawara Banga area of Shawal valley, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,5.0,6.0,0.0,0.0,0,0,4,6.0,0.0,False,2015-01-09,2015,1,False
+Ob371,Pakistan,01-09-2016,Obama,"Mangrooti village, Shawal valley, Datta Khel tehsil, North Waziristan, Pakistan","32.613785,69.508247",32.613785,69.508247,5.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2016-09-01,2016,9,False
+Ob43,Pakistan,11-05-2009,Obama,"Norak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,4.0,6.0,0.0,0.0,0,0,8,6.0,0.0,False,2009-05-11,2009,5,False
+Ob46,Pakistan,12-08-2009,Obama,"Spalaga, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,3.0,4.0,0.0,0.0,0,0,3,4.0,0.0,False,2009-08-12,2009,8,False
+Ob47,Pakistan,12-10-2009,Obama,"Ladha, South Waziristan, Pakistan","32.645780,70.121765",32.64578,70.121765,6.0,6.0,0.0,0.0,0,0,8,6.0,0.0,False,2009-10-12,2009,10,False
+Ob5,Pakistan,03-01-2009,Obama,"Sararogha, South Waziristan, Pakistan","32.474231,70.002675",32.474231,70.002675,3.0,12.0,0.0,0.0,0,0,1,12.0,0.0,False,2009-01-03,2009,1,False
+Ob53,Pakistan,01-01-2010,Obama,"Ghundikala, North Waziristan, Pakistan","32.959854,70.156371",32.959854,70.156371,2.0,3.0,0.0,0.0,0,0,3,3.0,0.0,False,2010-01-01,2010,1,False
+Ob54,Pakistan,01-03-2010,Obama,"Mosaki, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,5.0,1.0,2.0,1,1,2,5.0,2.0,False,2010-03-01,2010,3,False
+Ob55,Pakistan,01-06-2010,Obama,"Sanzali, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,7.0,0.0,6.0,0,0,5,7.0,6.0,False,2010-06-01,2010,6,False
+Ob56,Pakistan,01-06-2010,Obama,"Sanzali, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,5.0,9.0,5.0,5.0,0,0,3,9.0,5.0,False,2010-06-01,2010,6,False
+Ob57,Pakistan,01-08-2010,Obama,"Tappi, North Waziristan, Pakistan","32.946490,70.147068",32.94649,70.147068,5.0,6.0,5.0,5.0,1,1,3,6.0,5.0,False,2010-08-01,2010,8,False
+Ob58,Pakistan,01-09-2010,Obama,"Ismail Khel, North Waziristan, Pakistan","32.967169,69.692204",32.967169,69.692204,4.0,5.0,0.0,0.0,0,0,5,5.0,0.0,False,2010-09-01,2010,9,False
+Ob59,Pakistan,01-09-2010,Obama,"Shaktoi, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,15.0,18.0,0.0,0.0,0,0,7,18.0,0.0,False,2010-09-01,2010,9,False
+Ob6,Pakistan,03-12-2009,Obama,"Barjo, Kurram Agency, Pakistan","33.695975,70.336069",33.695975,70.336069,14.0,26.0,0.0,0.0,0,0,9,26.0,0.0,False,2009-12-03,2009,12,False
+Ob65,Pakistan,02-02-2010,Obama,"Toor Narai, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,23.0,24.0,0.0,0.0,0,0,0,24.0,0.0,False,2010-02-02,2010,2,False
+Ob66,Pakistan,02-02-2010,Obama,"Deegan, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2010-02-02,2010,2,False
+Ob67,Pakistan,02-02-2010,Obama,"Mohammad Khel, North Waziristan, Pakistan","32.957056,69.885054",32.957056,69.885054,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2010-02-02,2010,2,False
+Ob68,Pakistan,02-02-2010,Obama,"Pai Khel, North Waziristan, Pakistan","32.971734,69.839638",32.971734,69.839638,9.0,9.0,5.0,5.0,0,0,0,9.0,5.0,False,2010-02-02,2010,2,False
+Ob74,Pakistan,03-08-2010,Obama,"Miram Shah, North Waziristan, Pakistan","32.956928,70.169394",32.956928,70.169394,9.0,9.0,0.0,0.0,0,0,2,9.0,0.0,False,2010-08-03,2010,8,False
+Ob75,Pakistan,03-10-2010,Obama,"Mizar Madakhel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,7.0,8.0,0.0,0.0,0,0,12,8.0,0.0,False,2010-10-03,2010,10,False
+Ob76,Pakistan,03-10-2010,Obama,"Mizar Madakhel, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,7.0,7.0,4.0,7.0,0,0,0,7.0,7.0,False,2010-10-03,2010,10,False
+Ob84,Pakistan,04-12-2010,Obama,"Boya, North Waziristan, Pakistan","32.943336,69.899944",32.943336,69.899944,13.0,13.0,8.0,13.0,2,2,2,13.0,13.0,False,2010-12-04,2010,12,False
+Ob89,Pakistan,05-03-2010,Obama,"Machi Khel, North Waziristan, Pakistan","33.029133,70.246785",33.029133,70.246785,4.0,6.0,0.0,2.0,0,0,0,6.0,2.0,False,2010-03-05,2010,3,False
+Ob90,Pakistan,05-09-2010,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,5.0,10.0,0.0,4.0,0,0,4,10.0,4.0,False,2010-09-05,2010,9,False
+Ob91,Pakistan,05-11-2010,Obama,"Datta Khel, North Waziristan, Pakistan","33.150049,70.433361",33.150049,70.433361,8.0,14.0,0.0,4.0,0,0,12,14.0,4.0,False,2010-11-05,2010,11,False
+Ob92,Pakistan,05-11-2010,Obama,"Gurwak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,7.0,15.0,0.0,0.0,0,0,4,15.0,0.0,False,2010-11-05,2010,11,False
+Ob96,Pakistan,06-10-2010,Obama,"Norak, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,2.0,7.0,4.0,4.0,0,0,3,7.0,4.0,False,2010-10-06,2010,10,False
+Ob97,Pakistan,06-11-2010,Obama,"Maizer, North Waziristan, Pakistan","32.943065,69.955033",32.943065,69.955033,10.0,15.0,0.0,0.0,0,0,10,15.0,0.0,False,2010-11-06,2010,11,False
+SOM001,Somalia,01-07-2007,Bush,"Ras Kamboni, Somalia","-1.636037,41.583711",-1.636037,41.583711,8.0,10.0,2.0,2.0,0,1,1,10.0,2.0,False,2007-07-01,2007,7,False
+SOM002,Somalia,01-09-2007,Bush,"Hayo, Garer, Bankajirow and Badmadow, Ras Kamboni, Somalia","-1.636037,41.583711",-1.636037,41.583711,5.0,10.0,0.0,0.0,0,0,4,10.0,0.0,False,2007-09-01,2007,9,False
+SOM003,Somalia,01-09-2007,Bush,"Hayo, Somalia","5.152149,46.199615",5.152149,46.199615,4.0,31.0,4.0,31.0,0,1,0,31.0,31.0,False,2007-09-01,2007,9,False
+SOM005,Somalia,06-01-2007,Bush,"Bargal, Somalia","11.285478,51.076253",11.285478,51.076253,8.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2007-01-06,2007,1,False
+SOM006,Somalia,03-03-2008,Bush,"Dhobley, Somalia","5.152149,46.199615",5.152149,46.199615,0.0,6.0,0.0,4.0,0,0,3,6.0,4.0,False,2008-03-03,2008,3,False
+SOM007,Somalia,05-01-2008,Bush,"Dusa Marreb, Somalia","5.538062,46.386467",5.538062,46.386467,8.0,15.0,5.0,10.0,0,0,0,15.0,10.0,False,2008-01-05,2008,1,False
+SOM009,Somalia,04-03-2011,Obama,"Dhobley, Somalia","5.152149,46.199615",5.152149,46.199615,1.0,36.0,0.0,0.0,0,0,0,36.0,0.0,False,2011-03-04,2011,3,False
+SOM011,Somalia,07-06-2011,Obama,"Juba, Somalia","1.960222,42.431968",1.960222,42.431968,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2011-06-07,2011,6,False
+SOM017,Somalia,10-05-2013,Obama,"Barawe, Shabeellaha Hoose, Somalia","1.116195,44.031816",1.116195,44.031816,1.0,7.0,0.0,0.0,0,0,1,7.0,0.0,False,2013-05-10,2013,5,False
+SOM020,Somalia,08-01-2014,Obama,"Barawe, Lower Shabelle, Somalia","1.116195,44.031816",1.116195,44.031816,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2014-01-08,2014,1,False
+SOM024,Somalia,03-12-2015,Obama,"Abaq Xaluul village, Baardheere, Gedo region, Somalia","2.339046,42.288005",2.339046,42.288005,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-12-03,2015,12,False
+SOM029,Somalia,12-02-2015,Obama,"Kunyo-Barow, Lower Shabelle, Somalia","1.876645,44.247901",1.876645,44.247901,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-02-12,2015,2,False
+SOM031,Somalia,03-05-2016,Obama,"Raso Camp, Hiraaan, Somalia","5.152149,46.199615",5.152149,46.199615,150.0,200.0,0.0,0.0,0,0,0,200.0,0.0,False,2016-05-03,2016,5,False
+SOM032,Somalia,03-08-2016,Obama,"Awdhegle, Lower Shabelle, Somalia","1.980536,44.833004",1.980536,44.833004,19.0,19.0,0.0,0.0,0,0,0,19.0,0.0,False,2016-08-03,2016,8,False
+SOM036,Somalia,04-06-2016,Obama,"Jillib, Middle Juba, Somalia","0.491919,42.778436",0.491919,42.778436,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2016-06-04,2016,6,False
+SOM037,Somalia,04-11-2016,Obama,"Lower Juba, Somalia","0.224021,41.601181",0.224021,41.601181,8.0,12.0,3.0,3.0,0,0,0,12.0,3.0,False,2016-11-04,2016,11,False
+SOM038,Somalia,05-12-2016,Obama,"Afgoye, Lower Shabelle, Somalia","2.142622,45.116716",2.142622,45.116716,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2016-12-05,2016,12,False
+SOM042,Somalia,09-05-2016,Obama,"Tortoroow, Somalia","5.152149,46.199615",5.152149,46.199615,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-05-09,2016,5,False
+SOM045,Somalia,01-07-2017,Trump,"Gaduug, Somalia","5.152149,46.199615",5.152149,46.199615,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-07-01,2017,7,False
+SOM046,Somalia,05-04-2017,Trump,"Dar es Salam village, Lower Shabelle, Somalia",Unknown,0.783333,43.416667,4.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2017-04-05,2017,4,False
+SOM047,Somalia,06-11-2017,Trump,"Sakow, Middle Juba region, Somalia","1.642951,42.450357",1.642951,42.450357,8.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-11-06,2017,11,False
+SOM048,Somalia,07-02-2017,Trump,"Kunyo Barrow, Lower Shabelle, Somalia",Unknown,0.783333,43.416667,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-02-07,2017,2,False
+SOM049,Somalia,07-04-2017,Trump,"Luglaw, Jubba region, Somalia","0.224021,41.601181",0.224021,41.601181,10.0,13.0,0.0,0.0,0,0,10,13.0,0.0,False,2017-04-07,2017,4,False
+SOM057,Somalia,08-10-2017,Trump,"Banadiir region, Somalia","2.118737,45.336945",2.118737,45.336945,0.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-10-08,2017,10,False
+SOM061,Somalia,09-05-2017,Trump,"Bay region, Somalia","2.482519,43.483738",2.482519,43.483738,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2017-05-09,2017,5,False
+SOM062,Somalia,09-07-2017,Trump,"Barawe, Lower Shabelle, Somalia","1.116195,44.031816",1.116195,44.031816,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-07-09,2017,7,False
+SOM065,Somalia,10-02-2017,Trump,"Southern Somalia, Somalia","5.152149,46.199615",5.152149,46.199615,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-02-10,2017,2,False
+SOM067,Somalia,11-03-2017,Trump,"Qandala town, Puntland, Somalia","11.472013,49.873926",11.472013,49.873926,3.0,20.0,0.0,0.0,0,0,0,20.0,0.0,False,2017-03-11,2017,3,False
+SOM068,Somalia,11-09-2017,Trump,"Bay region, Somalia","2.482519,43.483738",2.482519,43.483738,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2017-09-11,2017,9,False
+SOM069,Somalia,11-10-2017,Trump,"Basra village, Lower Shabelle , Somalia","1.876645,44.247901",1.876645,44.247901,13.0,13.0,0.0,3.0,0,0,0,13.0,3.0,False,2017-10-11,2017,10,False
+SOM070,Somalia,11-11-2017,Trump,"Gaduud, Somalia","5.152149,46.199615",5.152149,46.199615,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-11-11,2017,11,False
+SOM071,Somalia,11-12-2017,Trump,"Lower Shabelle, Somalia","1.876645,44.247901",1.876645,44.247901,19.0,19.0,0.0,0.0,0,0,0,19.0,0.0,False,2017-12-11,2017,12,False
+SOM072,Somalia,11-12-2017,Trump,"Puntland, Somalia","9.786588,49.365314",9.786588,49.365314,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2017-12-11,2017,12,False
+SOM077,Somalia,12-12-2017,Trump,"Mubarak, Lower Shabelle, Somalia","1.876645,44.247901",1.876645,44.247901,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-12-12,2017,12,False
+SOM081,Somalia,01-02-2018,Trump,Mogadishu,"2.046934,45.318162",2.046934,45.318162,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2018-02-01,2018,2,False
+SOM084,Somalia,02-06-2018,Trump,"Kunyo Barrow, Lower Shabelle, Somalia",Unknown,0.783333,43.416667,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-06-02,2018,6,False
+SOM088,Somalia,03-12-2018,Trump,"Kamsuuma, Lower Juba region, Somalia","0.251742,42.779946",0.251742,42.779946,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-12-03,2018,12,False
+SOM091,Somalia,04-01-2018,Trump,"El Burr, Galmudug, Somalia","4.683913,46.619860",4.683913,46.61986,2.0,5.0,0.0,3.0,0,0,0,5.0,3.0,False,2018-01-04,2018,1,False
+SOM092,Somalia,04-05-2018,Trump,"Jilib, Middle Juba Region, Somalia","0.491919,42.778436",0.491919,42.778436,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2018-05-04,2018,5,False
+SOM093,Somalia,04-11-2018,Trump,"Jana Cabdalle, Kismayo, Somalia","0.028902,42.288621",0.028902,42.288621,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-11-04,2018,11,False
+SOM095,Somalia,05-09-2018,Trump,"Lower Shabelle , Somalia","1.876645,44.247901",1.876645,44.247901,0.0,5.0,0.0,5.0,0,0,0,5.0,5.0,False,2018-09-05,2018,9,False
+SOM098,Somalia,06-02-2018,Trump,Bosasso,"11.275540,49.187899",11.27554,49.187899,27.0,27.0,0.0,0.0,0,0,0,27.0,0.0,False,2018-02-06,2018,2,False
+SOM099,Somalia,06-03-2018,Trump,Bosasso,"11.275540,49.187899",11.27554,49.187899,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-03-06,2018,3,False
+SOM100,Somalia,06-08-2018,Trump,"Jubaland , Somalia","-0.366919,42.555720",-0.366919,42.55572,1.0,1.0,0.0,0.0,0,0,5,1.0,0.0,False,2018-08-06,2018,8,False
+SOM102,Somalia,08-02-2018,Trump,Mogadishu,"2.046934,45.318162",2.046934,45.318162,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-02-08,2018,2,False
+SOM105,Somalia,09-11-2018,Trump,Mubaraak,"2.046934,45.318162",2.046934,45.318162,2.0,2.0,0.0,0.0,0,0,1,2.0,0.0,False,2018-11-09,2018,11,False
+SOM107,Somalia,10-01-2018,Trump,Kismayo,"-0.356045,42.546057",-0.356045,42.546057,9.0,9.0,0.0,0.0,0,0,1,9.0,0.0,False,2018-01-10,2018,1,False
+SOM108,Somalia,10-06-2018,Trump,Kunya Barrow,"0.783333,43.416667",0.783333,43.416667,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2018-06-10,2018,6,False
+SOM109,Somalia,10-12-2018,Trump,"Haradere, Galmudug, Somalia","4.655952,47.856315",4.655952,47.856315,60.0,60.0,0.0,0.0,0,0,0,60.0,0.0,False,2018-12-10,2018,12,False
+T001,Pakistan,03-02-2017,Trump,"Kurram Agency, Pakistan","33.695975,70.336069",33.695975,70.336069,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-02-03,2017,2,False
+YEM001,Yemen,11-03-2002,Bush,"Marib, Yemen","15.470031,45.322857",15.470031,45.322857,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2002-03-11,2002,3,False
+YEM005,Yemen,01-12-2010,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,1.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2010-12-01,2010,12,False
+YEM012,Yemen,05-05-2011,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2011-05-05,2011,5,False
+YEM013,Yemen,06-03-2011,Obama,"Zinjibar, Abyan, Yemen","13.135021,45.388639",13.135021,45.388639,7.0,7.0,4.0,4.0,0,0,0,7.0,4.0,False,2011-03-06,2011,3,False
+YEM014,Yemen,06-10-2011,Obama,"Zinjibar, Abyan, Yemen","13.135021,45.388639",13.135021,45.388639,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2011-10-06,2011,10,False
+YEM015,Yemen,06-10-2011,Obama,"Raia, Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,2.0,3.0,2.0,3.0,1,1,0,3.0,3.0,False,2011-10-06,2011,10,False
+YEM020,Yemen,08-01-2011,Obama,"Al Khamila, Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,13.0,16.0,0.0,0.0,0,0,12,16.0,0.0,False,2011-01-08,2011,1,False
+YEM025,Yemen,09-05-2011,Obama,"Jaar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,3.0,7.0,3.0,7.0,0,0,4,7.0,7.0,False,2011-05-09,2011,5,False
+YEM026,Yemen,09-05-2011,Obama,"Jaar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,9.0,11.0,1.0,1.0,1,1,2,11.0,1.0,False,2011-05-09,2011,5,False
+YEM027,Yemen,09-07-2011,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,3.0,10.0,0.0,0.0,0,0,2,10.0,0.0,False,2011-07-09,2011,7,False
+YEM031,Yemen,10-05-2011,Obama,"Al Arqoub, Abyan, Yemen","13.6077214,44.984871",13.6077214,44.984871,5.0,5.0,0.0,0.0,0,0,7,5.0,0.0,False,2011-05-10,2011,5,False
+YEM039,Yemen,03-09-2012,Obama,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,23.0,34.0,2.0,2.0,0,0,0,34.0,2.0,False,2012-09-03,2012,9,False
+YEM040,Yemen,03-10-2012,Obama,"Jaar and Zinjibar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,24.0,24.0,0.0,0.0,0,0,0,24.0,0.0,False,2012-10-03,2012,10,False
+YEM041,Yemen,03-11-2012,Obama,"Jebel Khanfar, Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,3.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2012-11-03,2012,11,False
+YEM047,Yemen,04-07-2012,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,0.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2012-07-04,2012,7,False
+YEM048,Yemen,04-08-2012,Obama,"Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,16.0,16.0,0.0,0.0,0,0,0,16.0,0.0,False,2012-08-04,2012,8,False
+YEM049,Yemen,04-11-2012,Obama,"Lawder, Abyan, Yemen","13.879273,45.869518",13.879273,45.869518,10.0,14.0,0.0,0.0,0,0,10,14.0,0.0,False,2012-11-04,2012,11,False
+YEM061,Yemen,05-02-2012,Obama,"Zinjibar, Abyan, Yemen","13.135021,45.388639",13.135021,45.388639,10.0,15.0,0.0,0.0,0,0,0,15.0,0.0,False,2012-02-05,2012,2,False
+YEM062,Yemen,05-06-2012,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,4.0,1.0,1.0,0,0,0,4.0,1.0,False,2012-06-05,2012,6,False
+YEM063,Yemen,05-10-2012,Obama,"Jaar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,5.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2012-10-05,2012,10,False
+YEM064,Yemen,05-10-2012,Obama,"Shaqra, Abyan, Yemen","13.357462,45.698821",13.357462,45.698821,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2012-10-05,2012,10,False
+YEM065,Yemen,05-12-2012,Obama,"Al Hosoon, Marib, Yemen","13.6077214,44.984871",13.6077214,44.984871,6.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2012-12-05,2012,12,False
+YEM066,Yemen,05-12-2012,Obama,"Between Marib and Shabwa, Yemen","15.470031,45.322857",15.470031,45.322857,10.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2012-12-05,2012,12,False
+YEM067,Yemen,05-12-2012,Obama,"Al Ain, Shabwa/Hadramout, Yemen","14.6464749,45.8893292",14.6464749,45.8893292,6.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2012-12-05,2012,12,False
+YEM080,Yemen,06-01-2012,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,11.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2012-01-06,2012,1,False
+YEM081,Yemen,06-07-2012,Obama,"Moudia, Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,2.0,2.0,0.0,0.0,0,0,7,2.0,0.0,False,2012-07-06,2012,7,False
+YEM082,Yemen,06-07-2012,Obama,"Jaar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2012-07-06,2012,7,False
+YEM083,Yemen,06-07-2012,Obama,"Jaar, Abyan, Yemen","13.216737,45.306426",13.216737,45.306426,5.0,5.0,0.0,0.0,0,0,3,5.0,0.0,False,2012-07-06,2012,7,False
+YEM084,Yemen,06-11-2012,Obama,"Azzan, Shabwa, Yemen","14.325435,47.446588",14.325435,47.446588,16.0,16.0,0.0,0.0,0,0,0,16.0,0.0,False,2012-11-06,2012,11,False
+YEM093,Yemen,07-03-2012,Obama,"Bayhan, Shabwa, Yemen","14.797618,45.718941",14.797618,45.718941,2.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2012-03-07,2012,3,False
+YEM094,Yemen,07-04-2012,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,3.0,13.0,0.0,0.0,0,0,7,13.0,0.0,False,2012-04-07,2012,4,False
+YEM096,Yemen,08-04-2012,Obama,"Al Qotn, Hadhramout, Yemen","15.840860,48.483723",15.84086,48.483723,3.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2012-04-08,2012,4,False
+YEM097,Yemen,08-06-2012,Obama,"Radaa, Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,7.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2012-06-08,2012,6,False
+YEM098,Yemen,08-07-2012,Obama,"Al Qotn, Hadhramout, Yemen","15.840860,48.483723",15.84086,48.483723,2.0,3.0,0.0,0.0,0,0,2,3.0,0.0,False,2012-07-08,2012,7,False
+YEM102,Yemen,09-02-2012,Obama,"Radaa, Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,12.0,12.0,12.0,12.0,3,3,4,12.0,12.0,False,2012-02-09,2012,2,False
+YEM103,Yemen,09-05-2012,Obama,"Al Ain, Yemen","16.0000181,47.7079339",16.0000181,47.7079339,4.0,6.0,1.0,4.0,0,0,3,6.0,4.0,False,2012-05-09,2012,5,False
+YEM104,Yemen,09-10-2012,Obama,"Al Ain, Yemen","16.0000181,47.7079339",16.0000181,47.7079339,6.0,15.0,0.0,0.0,0,0,3,15.0,0.0,False,2012-10-09,2012,10,False
+YEM106,Yemen,10-04-2012,Obama,"Al Saeed, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,3.0,6.0,0.0,0.0,0,0,2,6.0,0.0,False,2012-04-10,2012,4,False
+YEM110,Yemen,11-07-2012,Obama,"Beit al Ahan, Sanaa, Yemen","14.521675,43.324637",14.521675,43.324637,2.0,2.0,0.0,0.0,0,0,2,2.0,0.0,False,2012-07-11,2012,7,False
+YEM115,Yemen,01-01-2013,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2013-01-01,2013,1,False
+YEM116,Yemen,01-04-2013,Obama,"Radaa, Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2013-04-01,2013,4,False
+YEM129,Yemen,06-01-2013,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,7.0,8.0,0.0,0.0,0,0,2,8.0,0.0,False,2013-01-06,2013,1,False
+YEM130,Yemen,06-09-2013,Obama,"Jawf, Yemen","16.790181,45.299386",16.790181,45.299386,2.0,7.0,1.0,1.0,1,1,0,7.0,1.0,False,2013-09-06,2013,9,False
+YEM133,Yemen,08-01-2013,Obama,"Wadi Ser, Hadhramout, Yemen","16.930413,49.365314",16.930413,49.365314,3.0,5.0,4.0,5.0,1,1,3,5.0,5.0,False,2013-01-08,2013,1,False
+YEM134,Yemen,08-06-2013,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2013-06-08,2013,6,False
+YEM135,Yemen,08-07-2013,Obama,"Markha, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,6.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2013-07-08,2013,7,False
+YEM136,Yemen,08-08-2013,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,3.0,8.0,2.0,2.0,2,2,0,8.0,2.0,False,2013-08-08,2013,8,False
+YEM137,Yemen,08-08-2013,Obama,"Al Ayoun, Hadhramout, Yemen","16.930413,49.365314",16.930413,49.365314,2.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2013-08-08,2013,8,False
+YEM138,Yemen,08-08-2013,Obama,"Al Qotn, Hadhramout, Yemen","15.840860,48.483723",15.84086,48.483723,3.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2013-08-08,2013,8,False
+YEM139,Yemen,08-10-2013,Obama,"Al Askariya, Lahj, Yemen","13.6077214,44.984871",13.6077214,44.984871,2.0,5.0,0.0,0.0,0,0,2,5.0,0.0,False,2013-10-08,2013,10,False
+YEM143,Yemen,12-09-2013,Obama,"Al Qotn, Hadhramout, Yemen","15.840860,48.483723",15.84086,48.483723,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2013-09-12,2013,9,False
+YEM144,Yemen,12-12-2013,Obama,"Radaa, Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,12.0,17.0,8.0,16.0,0,0,5,17.0,16.0,False,2013-12-12,2013,12,False
+YEM147,Yemen,01-06-2014,Obama,"Radaa, Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2014-06-01,2014,6,False
+YEM148,Yemen,01-08-2014,Obama,"Al Qotn, Hadhramout, Yemen","15.840860,48.483723",15.84086,48.483723,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2014-08-01,2014,8,False
+YEM151,Yemen,02-03-2014,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,0.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2014-03-02,2014,3,False
+YEM152,Yemen,03-02-2014,Obama,"Shabwan, Marib, Yemen","15.515888,45.449806",15.515888,45.449806,2.0,3.0,0.0,0.0,0,0,2,3.0,0.0,False,2014-02-03,2014,2,False
+YEM153,Yemen,03-03-2014,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2014-03-03,2014,3,False
+YEM154,Yemen,03-03-2014,Obama,"Radhum, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2014-03-03,2014,3,False
+YEM155,Yemen,03-05-2014,Obama,"Khalek, Jawf, Yemen","16.790181,45.299386",16.790181,45.299386,2.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2014-05-03,2014,5,False
+YEM156,Yemen,03-10-2014,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,1.0,4.0,0.0,1.0,0,1,0,4.0,1.0,False,2014-10-03,2014,10,False
+YEM157,Yemen,03-12-2014,Obama,"Khab Wal Saaf, Jawf, Yemen","16.714858,44.875452",16.714858,44.875452,2.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2014-12-03,2014,12,False
+YEM158,Yemen,04-01-2014,Obama,"Mahfed, Abyan, Yemen","14.061619,46.914966",14.061619,46.914966,3.0,3.0,0.0,0.0,0,0,4,3.0,0.0,False,2014-01-04,2014,1,False
+YEM162,Yemen,05-12-2014,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,4.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2014-12-05,2014,12,False
+YEM163,Yemen,06-04-2014,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,3.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2014-04-06,2014,4,False
+YEM166,Yemen,08-09-2014,Obama,"Wadi Abida, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,3.0,3.0,0.0,0.0,0,0,2,3.0,0.0,False,2014-09-08,2014,9,False
+YEM168,Yemen,09-11-2014,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2014-11-09,2014,11,False
+YEM174,Yemen,11-04-2014,Obama,"Radaa,  Bayda, Yemen","14.411870,44.836513",14.41187,44.836513,9.0,20.0,0.0,0.0,0,0,0,20.0,0.0,False,2014-04-11,2014,4,False
+YEM175,Yemen,11-12-2014,Obama,"Azzan, Shabwa, Yemen","14.325435,47.446588",14.325435,47.446588,6.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2014-12-11,2014,12,False
+YEM177,Yemen,12-06-2014,Obama,"Nasab, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,9.0,10.0,0.0,0.0,0,0,3,10.0,0.0,False,2014-06-12,2014,6,False
+YEM178,Yemen,12-06-2014,Obama,"Dafaar, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,11.0,11.0,8.0,8.0,1,1,0,11.0,8.0,False,2014-06-12,2014,6,False
+YEM181,Yemen,02-02-2015,Obama,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,3.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2015-02-02,2015,2,False
+YEM184,Yemen,03-01-2015,Obama,"Markha district, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,3.0,0.0,0.0,0,0,3,3.0,0.0,False,2015-01-03,2015,1,False
+YEM185,Yemen,04-12-2015,Obama,"Mukalla, Hadhramout, Yemen","14.540432,49.127197",14.540432,49.127197,3.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2015-12-04,2015,12,False
+YEM189,Yemen,05-08-2015,Obama,"Mafraq, Shabwa, Yemen","15.4747097,45.3052453",15.4747097,45.3052453,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2015-08-05,2015,8,False
+YEM190,Yemen,05-10-2015,Obama,"Ataq, Shabwa, Yemen","14.529564,46.830127",14.529564,46.830127,1.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2015-10-05,2015,10,False
+YEM191,Yemen,05-11-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,4.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2015-11-05,2015,11,False
+YEM194,Yemen,06-02-2015,Obama,"Jawf, Yemen","16.790181,45.299386",16.790181,45.299386,5.0,20.0,0.0,0.0,0,0,0,20.0,0.0,False,2015-02-06,2015,2,False
+YEM195,Yemen,06-09-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,3.0,3.0,0.0,0.0,0,0,2,3.0,0.0,False,2015-09-06,2015,9,False
+YEM199,Yemen,07-03-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2015-03-07,2015,3,False
+YEM200,Yemen,07-11-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,3.0,10.0,0.0,0.0,0,0,0,10.0,0.0,False,2015-11-07,2015,11,False
+YEM202,Yemen,08-12-2015,Obama,"Mukalla-Rukob road, Hadramout, Yemen","14.580239,49.215742",14.580239,49.215742,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2015-12-08,2015,12,False
+YEM206,Yemen,09-09-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,3.0,6.0,0.0,4.0,0,0,2,6.0,4.0,False,2015-09-09,2015,9,False
+YEM207,Yemen,09-11-2015,Obama,"Jawf-Mareb border, Yemen","16.790181,45.299386",16.790181,45.299386,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2015-11-09,2015,11,False
+YEM208,Yemen,09-12-2015,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,4.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2015-12-09,2015,12,False
+YEM213,Yemen,02-03-2016,Obama,"Rawda city, Shabwa, Yemen","15.369026,47.027292",15.369026,47.027292,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2016-03-02,2016,3,False
+YEM214,Yemen,02-03-2016,Obama,"Maraquesha, Abyan, Yemen","13.634341,46.056321",13.634341,46.056321,3.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2016-03-02,2016,3,False
+YEM217,Yemen,03-04-2016,Obama,"Radhum, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2016-04-03,2016,4,False
+YEM224,Yemen,04-03-2016,Obama,"Mukalla, Hadramout, Yemen","14.540432,49.127197",14.540432,49.127197,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-03-04,2016,3,False
+YEM225,Yemen,04-05-2016,Obama,"Zinjibar, Abyan, Yemen","13.135021,45.388639",13.135021,45.388639,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2016-05-04,2016,5,False
+YEM231,Yemen,06-09-2016,Obama,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2016-09-06,2016,9,False
+YEM232,Yemen,06-10-2016,Obama,"Mareb, Yemen","15.470031,45.322857",15.470031,45.322857,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2016-10-06,2016,10,False
+YEM233,Yemen,06-12-2016,Obama,"Haban, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,3.0,0.0,0.0,0,0,1,3.0,0.0,False,2016-12-06,2016,12,False
+YEM234,Yemen,07-01-2016,Obama,"Gardan, Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,3.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2016-01-07,2016,1,False
+YEM235,Yemen,07-04-2016,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,3.0,0.0,0.0,0,0,0,3.0,0.0,False,2016-04-07,2016,4,False
+YEM236,Yemen,07-08-2016,Obama,"Central Yemen, Yemen","15.552727,48.516388",15.552727,48.516388,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2016-08-07,2016,8,False
+YEM239,Yemen,08-04-2016,Obama,"Azzan, Shabwa, Yemen","14.325435,47.446588",14.325435,47.446588,2.0,4.0,0.0,0.0,0,0,2,4.0,0.0,False,2016-04-08,2016,4,False
+YEM242,Yemen,09-04-2016,Obama,"Shabwa, Yemen","14.754630,46.516261",14.75463,46.516261,6.0,9.0,0.0,0.0,0,0,0,9.0,0.0,False,2016-04-09,2016,4,False
+YEM248,Yemen,10-06-2016,Obama,"Shabwah, Yemen","14.754630,46.516261",14.75463,46.516261,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2016-06-10,2016,6,False
+YEM256,Yemen,01-08-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-08-01,2017,8,False
+YEM262,Yemen,03-02-2017,Trump,"Central Yemen, Yemen","15.552727,48.516388",15.552727,48.516388,2.0,12.0,0.0,0.0,0,0,0,12.0,0.0,False,2017-02-03,2017,2,False
+YEM263,Yemen,03-03-2017,Trump,"Yemen, Yemen","15.552727,48.516388",15.552727,48.516388,1.0,8.0,0.0,0.0,0,0,0,8.0,0.0,False,2017-03-03,2017,3,False
+YEM264,Yemen,03-04-2017,Trump,"Ahwar, Abyan, Yemen","13.521919,46.711592",13.521919,46.711592,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-04-03,2017,4,False
+YEM267,Yemen,04-02-2017,Trump,"Shabwah, Yemen","14.754630,46.516261",14.75463,46.516261,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2017-02-04,2017,2,False
+YEM275,Yemen,07-01-2017,Trump,"Al Wadei, Abyan, Yemen","13.6077214,44.984871",13.6077214,44.984871,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-01-07,2017,1,False
+YEM277,Yemen,09-09-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,2.0,7.0,0.0,0.0,0,0,0,7.0,0.0,False,2017-09-09,2017,9,False
+YEM279,Yemen,10-04-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,1.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-04-10,2017,4,False
+YEM280,Yemen,10-08-2017,Trump,"Raghwan, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,5.0,5.0,0.0,0.0,0,0,0,5.0,0.0,False,2017-08-10,2017,8,False
+YEM285,Yemen,11-02-2017,Trump,"Al Wadi, Marib, Yemen","15.470031,45.322857",15.470031,45.322857,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-02-11,2017,2,False
+YEM286,Yemen,11-10-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-10-11,2017,10,False
+YEM287,Yemen,11-11-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,1.0,1.0,0.0,0.0,0,0,0,1.0,0.0,False,2017-11-11,2017,11,False
+YEM288,Yemen,11-12-2017,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,2.0,2.0,0.0,0.0,0,0,0,2.0,0.0,False,2017-12-11,2017,12,False
+YEM297,Yemen,02-11-2018,Trump,"Bayda, Yemen","13.988914,45.577100",13.988914,45.5771,6.0,6.0,0.0,0.0,0,0,0,6.0,0.0,False,2018-11-02,2018,11,False
+YEM300,Yemen,03-05-2018,Trump,"Hadramout, Yemen","16.930413,49.365314",16.930413,49.365314,1.0,4.0,0.0,1.0,0,1,0,4.0,1.0,False,2018-05-03,2018,5,False
+YEM301,Yemen,03-07-2018,Trump,"Al Hudhi, Hadramout, Yemen","15.217020,43.070475",15.21702,43.070475,1.0,1.0,1.0,1.0,0,0,0,1.0,1.0,False,2018-07-03,2018,7,False
+YEM302,Yemen,03-08-2018,Trump,"Hadramout, Yemen","16.930413,49.365314",16.930413,49.365314,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-08-03,2018,8,False
+YEM303,Yemen,03-09-2018,Trump,"Al Abr, Hadramout, Yemen","16.133333,47.233333",16.133333,47.233333,6.0,6.0,0.0,6.0,0,0,0,6.0,6.0,False,2018-09-03,2018,9,False
+YEM307,Yemen,04-11-2018,Trump,"Hadramout, Yemen","16.930413,49.365314",16.930413,49.365314,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,False,2018-11-04,2018,11,False
+YEM316,Yemen,09-09-2018,Trump,"Ahwar, Abyan, Yemen","13.521919,46.711592",13.521919,46.711592,4.0,4.0,0.0,0.0,0,0,0,4.0,0.0,False,2018-09-09,2018,9,False
